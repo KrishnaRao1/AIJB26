@@ -1,1 +1,3454 @@
-{}
+{
+  "stripe": {
+    "8172508": {
+      "title": "Abuse Investigator",
+      "first_seen": "2026-09-28T21:59:21.745710+00:00"
+    },
+    "8172510": {
+      "title": "Abuse Investigator",
+      "first_seen": "2026-09-28T21:59:21.745736+00:00"
+    },
+    "8172487": {
+      "title": "Abuse Investigator",
+      "first_seen": "2026-09-28T21:59:21.745741+00:00"
+    },
+    "8172503": {
+      "title": "Abuse Research Engineer",
+      "first_seen": "2026-09-28T21:59:21.745744+00:00"
+    },
+    "8138044": {
+      "title": "Account Executive, AI Sales",
+      "first_seen": "2026-09-28T21:59:21.745746+00:00"
+    },
+    "8204645": {
+      "title": "Account Executive, AI Startups - Grower",
+      "first_seen": "2026-09-28T21:59:21.745748+00:00"
+    },
+    "8130725": {
+      "title": "Account Executive, AI Startups (Hunter)",
+      "first_seen": "2026-09-28T21:59:21.745751+00:00"
+    },
+    "8178461": {
+      "title": "Account Executive, Bridge ",
+      "first_seen": "2026-09-28T21:59:21.745757+00:00"
+    },
+    "8077887": {
+      "title": "Account Executive, Bridge ",
+      "first_seen": "2026-09-28T21:59:21.745761+00:00"
+    },
+    "8123027": {
+      "title": "Account Executive, Commercial (Grower)",
+      "first_seen": "2026-09-28T21:59:21.745764+00:00"
+    },
+    "8141211": {
+      "title": "Account Executive, Commercial Hunter",
+      "first_seen": "2026-09-28T21:59:21.745766+00:00"
+    },
+    "7789539": {
+      "title": "Account Executive, Commercial Hunter (Japanese Fluency)",
+      "first_seen": "2026-09-28T21:59:21.745769+00:00"
+    },
+    "7893199": {
+      "title": "Account Executive, Cross Border China",
+      "first_seen": "2026-09-28T21:59:21.745771+00:00"
+    },
+    "8201690": {
+      "title": "Account Executive, DACH, Commercial (Existing Business)",
+      "first_seen": "2026-09-28T21:59:21.745773+00:00"
+    },
+    "7825578": {
+      "title": "Account Executive, Enterprise (DACH Market)  ",
+      "first_seen": "2026-09-28T21:59:21.745775+00:00"
+    },
+    "8107136": {
+      "title": "Account Executive, Enterprise (Grower) ",
+      "first_seen": "2026-09-28T21:59:21.745782+00:00"
+    },
+    "7993151": {
+      "title": "Account Executive, Enterprise (Grower) ",
+      "first_seen": "2026-09-28T21:59:21.745784+00:00"
+    },
+    "8114458": {
+      "title": "Account Executive, Enterprise Grower (Israel)",
+      "first_seen": "2026-09-28T21:59:21.745786+00:00"
+    },
+    "8129956": {
+      "title": "Account Executive, Enterprise Grower, Platforms (Israel)",
+      "first_seen": "2026-09-28T21:59:21.745788+00:00"
+    },
+    "8178881": {
+      "title": "Account Executive - Enterprise, Growth",
+      "first_seen": "2026-09-28T21:59:21.745790+00:00"
+    },
+    "7994330": {
+      "title": "Account Executive, Enterprise - Hunter",
+      "first_seen": "2026-09-28T21:59:21.745792+00:00"
+    },
+    "8165275": {
+      "title": "Account Executive, Enterprise (Hunter) ",
+      "first_seen": "2026-09-28T21:59:21.745794+00:00"
+    },
+    "8202836": {
+      "title": "Account Executive, Enterprise Hunter (French-speaking)",
+      "first_seen": "2026-09-28T21:59:21.745797+00:00"
+    },
+    "7528816": {
+      "title": "Account Executive, Enterprise Hunter (Japanese fluency)",
+      "first_seen": "2026-09-28T21:59:21.745799+00:00"
+    },
+    "7576967": {
+      "title": "Account Executive, Enterprise Platforms (Grower)",
+      "first_seen": "2026-09-28T21:59:21.745802+00:00"
+    },
+    "7961609": {
+      "title": "Account Executive, Enterprise Platforms, Hunter",
+      "first_seen": "2026-09-28T21:59:21.745804+00:00"
+    },
+    "8075473": {
+      "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
+      "first_seen": "2026-09-28T21:59:21.745806+00:00"
+    },
+    "8041894": {
+      "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
+      "first_seen": "2026-09-28T21:59:21.745808+00:00"
+    },
+    "8114155": {
+      "title": "Account Executive, Existing Business ",
+      "first_seen": "2026-09-28T21:59:21.745810+00:00"
+    },
+    "8119697": {
+      "title": "Account Executive, Existing Business (Central Eastern Europe)",
+      "first_seen": "2026-09-28T21:59:21.745811+00:00"
+    },
+    "8048193": {
+      "title": "Account Executive, Financial Services, Grower ",
+      "first_seen": "2026-09-28T21:59:21.745813+00:00"
+    },
+    "8121419": {
+      "title": "Account Executive, Funded Startups \u2014 Hunter, Italy",
+      "first_seen": "2026-09-28T21:59:21.745816+00:00"
+    },
+    "8121421": {
+      "title": "Account Executive, Funded Startups - Israel",
+      "first_seen": "2026-09-28T21:59:21.745822+00:00"
+    },
+    "8079514": {
+      "title": "Account Executive, hunter",
+      "first_seen": "2026-09-28T21:59:21.745824+00:00"
+    },
+    "8130052": {
+      "title": "Account Executive, Hunter (Central Eastern Europe)",
+      "first_seen": "2026-09-28T21:59:21.745826+00:00"
+    },
+    "8122192": {
+      "title": "Account Executive - LATAM",
+      "first_seen": "2026-09-28T21:59:21.745829+00:00"
+    },
+    "8114402": {
+      "title": "Account Executive, Nordics",
+      "first_seen": "2026-09-28T21:59:21.745831+00:00"
+    },
+    "7456957": {
+      "title": "Account Executive, Platforms (Existing Business)",
+      "first_seen": "2026-09-28T21:59:21.745833+00:00"
+    },
+    "8222009": {
+      "title": "Account Executive, Platforms - Hunter",
+      "first_seen": "2026-09-28T21:59:21.745835+00:00"
+    },
+    "7298935": {
+      "title": "Account Executive, Platforms (Hunter) ",
+      "first_seen": "2026-09-28T21:59:21.745837+00:00"
+    },
+    "8129702": {
+      "title": "Account Executive, Platforms Hunter (German fluency)",
+      "first_seen": "2026-09-28T21:59:21.745839+00:00"
+    },
+    "8041076": {
+      "title": "Account Executive, Privy",
+      "first_seen": "2026-09-28T21:59:21.745841+00:00"
+    },
+    "8188088": {
+      "title": "Account Executive Product - Billing (Japanese Fluency) ",
+      "first_seen": "2026-09-28T21:59:21.745843+00:00"
+    },
+    "8174148": {
+      "title": "Account Executive, Product - Buy Now Pay Later (AUNZ)",
+      "first_seen": "2026-09-28T21:59:21.745974+00:00"
+    },
+    "8190054": {
+      "title": "Account Executive, Product (Capital) - Hunter ",
+      "first_seen": "2026-09-28T21:59:21.745977+00:00"
+    },
+    "8181024": {
+      "title": "Account Executive Product - Fraud & Risk ",
+      "first_seen": "2026-09-28T21:59:21.745979+00:00"
+    },
+    "8203649": {
+      "title": "Account Executive Product - Issuing & Treasury ",
+      "first_seen": "2026-09-28T21:59:21.745981+00:00"
+    },
+    "8190044": {
+      "title": "Account Executive, Product - Issuing & Treasury (Grower)",
+      "first_seen": "2026-09-28T21:59:21.745985+00:00"
+    },
+    "8238098": {
+      "title": "Account Executive, Product - Issuing & Treasury (Hunter)",
+      "first_seen": "2026-09-28T21:59:21.745987+00:00"
+    },
+    "8189798": {
+      "title": "Account Executive Product - Link",
+      "first_seen": "2026-09-28T21:59:21.745989+00:00"
+    },
+    "8049828": {
+      "title": "Account Executive, Product - Link",
+      "first_seen": "2026-09-28T21:59:21.745991+00:00"
+    },
+    "8174160": {
+      "title": "Account Executive, Product - Local Payment Methods",
+      "first_seen": "2026-09-28T21:59:21.745993+00:00"
+    },
+    "8196267": {
+      "title": "Account Executive, Product - Local Payment Methods",
+      "first_seen": "2026-09-28T21:59:21.745995+00:00"
+    },
+    "8190036": {
+      "title": "Account Executive, Product - Local Payment Methods",
+      "first_seen": "2026-09-28T21:59:21.745997+00:00"
+    },
+    "8196269": {
+      "title": "Account Executive, Product (Payouts) - Hunter",
+      "first_seen": "2026-09-28T21:59:21.745999+00:00"
+    },
+    "8196259": {
+      "title": "Account Executive, Product (Payouts) - Hunter",
+      "first_seen": "2026-09-28T21:59:21.746001+00:00"
+    },
+    "8213481": {
+      "title": "Account Executive, Product (Payouts) - Hunter",
+      "first_seen": "2026-09-28T21:59:21.746003+00:00"
+    },
+    "8190050": {
+      "title": " Account Executive, Product Sales - Billing",
+      "first_seen": "2026-09-28T21:59:21.746005+00:00"
+    },
+    "8211151": {
+      "title": "Account Executive, Product Sales (Billing) - Grower",
+      "first_seen": "2026-09-28T21:59:21.746009+00:00"
+    },
+    "8196254": {
+      "title": "Account Executive, Product Sales (Billing) - Hunter",
+      "first_seen": "2026-09-28T21:59:21.746011+00:00"
+    },
+    "7958961": {
+      "title": "Account Executive, Product Sales - Billing (Velocity)",
+      "first_seen": "2026-09-28T21:59:21.746013+00:00"
+    },
+    "8190046": {
+      "title": "Account Executive, Product Sales - Crypto",
+      "first_seen": "2026-09-28T21:59:21.746015+00:00"
+    },
+    "8175828": {
+      "title": "Account Executive, Product Sales - Currency Management",
+      "first_seen": "2026-09-28T21:59:21.746017+00:00"
+    },
+    "8190416": {
+      "title": "Account Executive, Product Sales - Currency Management",
+      "first_seen": "2026-09-28T21:59:21.746019+00:00"
+    },
+    "8114738": {
+      "title": "Account Executive, Product Sales (Data) ",
+      "first_seen": "2026-09-28T21:59:21.746023+00:00"
+    },
+    "8113687": {
+      "title": "Account Executive, Product Sales (Data Pipeline) ",
+      "first_seen": "2026-09-28T21:59:21.746027+00:00"
+    },
+    "8190042": {
+      "title": "Account Executive, Product Sales, Metronome",
+      "first_seen": "2026-09-28T21:59:21.746029+00:00"
+    },
+    "8029043": {
+      "title": "Account Executive, Product Sales, Metronome (Hunter) ",
+      "first_seen": "2026-09-28T21:59:21.746032+00:00"
+    },
+    "8068744": {
+      "title": "Account Executive, Product Sales-  Money Management ANZ",
+      "first_seen": "2026-09-28T21:59:21.746034+00:00"
+    },
+    "8068746": {
+      "title": "Account Executive, Product Sales - Money Management  APAC",
+      "first_seen": "2026-09-28T21:59:21.746036+00:00"
+    },
+    "8040940": {
+      "title": "Account Executive, Product Sales - Optimised Checkout ",
+      "first_seen": "2026-09-28T21:59:21.746038+00:00"
+    },
+    "7456716": {
+      "title": "Account Executive, Product Sales - Stablecoin Issuing",
+      "first_seen": "2026-09-28T21:59:21.746040+00:00"
+    },
+    "8190048": {
+      "title": "Account Executive, Product Sales - Tax",
+      "first_seen": "2026-09-28T21:59:21.746042+00:00"
+    },
+    "7389692": {
+      "title": "Account Executive, Product Sales (Terminal) ",
+      "first_seen": "2026-09-28T21:59:21.746044+00:00"
+    },
+    "8175830": {
+      "title": "Account Executive Product - Tax",
+      "first_seen": "2026-09-28T21:59:21.746045+00:00"
+    },
+    "8196288": {
+      "title": "Account Executive, Product - Tax",
+      "first_seen": "2026-09-28T21:59:21.746048+00:00"
+    },
+    "8144513": {
+      "title": "Account Executive, Product - Terminal",
+      "first_seen": "2026-09-28T21:59:21.746050+00:00"
+    },
+    "8207708": {
+      "title": "Account Executive, Retail (Grower)",
+      "first_seen": "2026-09-28T21:59:21.746054+00:00"
+    },
+    "8108891": {
+      "title": "Account Executive - SEA, Platforms (Grower)",
+      "first_seen": "2026-09-28T21:59:21.746056+00:00"
+    },
+    "7576999": {
+      "title": "Account Executive, SMB Grower",
+      "first_seen": "2026-09-28T21:59:21.746058+00:00"
+    },
+    "8156996": {
+      "title": "Account Executive, SMB (Grower)",
+      "first_seen": "2026-09-28T21:59:21.746060+00:00"
+    },
+    "7277406": {
+      "title": "Account Executive, SMB (Hunter)",
+      "first_seen": "2026-09-28T21:59:21.746061+00:00"
+    },
+    "8129958": {
+      "title": "Account Executive, SMB Hunter (Central Eastern Europe)",
+      "first_seen": "2026-09-28T21:59:21.746063+00:00"
+    },
+    "8213057": {
+      "title": "Account Executive, SMB Hunter (DACH)",
+      "first_seen": "2026-09-28T21:59:21.746065+00:00"
+    },
+    "8128552": {
+      "title": "Account Executive, Startups (Grower)",
+      "first_seen": "2026-09-28T21:59:21.746067+00:00"
+    },
+    "8119498": {
+      "title": "Account Executive, Startups SaaS Platforms Grower",
+      "first_seen": "2026-09-28T21:59:21.746069+00:00"
+    },
+    "8157577": {
+      "title": "Account Executive, Strategic Platform Partnerships",
+      "first_seen": "2026-09-28T21:59:21.746072+00:00"
+    },
+    "8110261": {
+      "title": "Account Executive, Strategics ",
+      "first_seen": "2026-09-28T21:59:21.746075+00:00"
+    },
+    "8130729": {
+      "title": "Account Executive, UK Velocity Hunter",
+      "first_seen": "2026-09-28T21:59:21.746076+00:00"
+    },
+    "8128632": {
+      "title": "Account Executive, Velocity Platforms (Hunter)",
+      "first_seen": "2026-09-28T21:59:21.746078+00:00"
+    },
+    "8195480": {
+      "title": "Account Executive - Velocity SMB Grower",
+      "first_seen": "2026-09-28T21:59:21.746080+00:00"
+    },
+    "8195478": {
+      "title": "Account Executive, Velocity SMB Hunter",
+      "first_seen": "2026-09-28T21:59:21.746082+00:00"
+    },
+    "8103750": {
+      "title": "Accounting AI Solutions Lead",
+      "first_seen": "2026-09-28T21:59:21.746084+00:00"
+    },
+    "7118945": {
+      "title": "Accounts Receivable Manager",
+      "first_seen": "2026-09-28T21:59:21.746086+00:00"
+    },
+    "8209652": {
+      "title": "Administrative Business Partner",
+      "first_seen": "2026-09-28T21:59:21.746090+00:00"
+    },
+    "8081673": {
+      "title": "Administrative Business Partner",
+      "first_seen": "2026-09-28T21:59:21.746093+00:00"
+    },
+    "8209639": {
+      "title": "Administrative Business Partner, Office of the President",
+      "first_seen": "2026-09-28T21:59:21.746094+00:00"
+    },
+    "8223719": {
+      "title": "Administrative Coordinator",
+      "first_seen": "2026-09-28T21:59:21.746097+00:00"
+    },
+    "7844214": {
+      "title": "AEO and GEO Marketing Manager",
+      "first_seen": "2026-09-28T21:59:21.746099+00:00"
+    },
+    "8044460": {
+      "title": "AI Engineer",
+      "first_seen": "2026-09-28T21:59:21.746101+00:00"
+    },
+    "8221776": {
+      "title": "AI Solutions Program Manager, Finance",
+      "first_seen": "2026-09-28T21:59:21.746103+00:00"
+    },
+    "8074125": {
+      "title": "Android BSP Engineer",
+      "first_seen": "2026-09-28T21:59:21.746106+00:00"
+    },
+    "7543559": {
+      "title": "Android Engineer, Terminal",
+      "first_seen": "2026-09-28T21:59:21.746108+00:00"
+    },
+    "7557403": {
+      "title": "Android Engineer, Terminal OS Platform",
+      "first_seen": "2026-09-28T21:59:21.746110+00:00"
+    },
+    "8113337": {
+      "title": "ARG Engineering Manager",
+      "first_seen": "2026-09-28T21:59:21.746112+00:00"
+    },
+    "7369543": {
+      "title": "Backend/API Engineer, Money as a Service (Product) ",
+      "first_seen": "2026-09-28T21:59:21.746114+00:00"
+    },
+    "6686634": {
+      "title": "Backend Engineer, Core Technology",
+      "first_seen": "2026-09-28T21:59:21.746117+00:00"
+    },
+    "6042172": {
+      "title": "Backend Engineer, Core Technology",
+      "first_seen": "2026-09-28T21:59:21.746119+00:00"
+    },
+    "7476555": {
+      "title": "Backend Engineer, Developer & End-user Experience Platform",
+      "first_seen": "2026-09-28T21:59:21.746122+00:00"
+    },
+    "7557899": {
+      "title": "Backend Engineer, Developer & End-user Experience Platform",
+      "first_seen": "2026-09-28T21:59:21.746124+00:00"
+    },
+    "7988264": {
+      "title": "Backend Engineer, Intelligent Commerce",
+      "first_seen": "2026-09-28T21:59:21.746126+00:00"
+    },
+    "8131144": {
+      "title": "Backend Engineer, Link",
+      "first_seen": "2026-09-28T21:59:21.746128+00:00"
+    },
+    "6692166": {
+      "title": "Backend Engineer, Payments",
+      "first_seen": "2026-09-28T21:59:21.746130+00:00"
+    },
+    "7232592": {
+      "title": "Backend Engineer, Payments and Risk",
+      "first_seen": "2026-09-28T21:59:21.746132+00:00"
+    },
+    "7895287": {
+      "title": "Backend Engineer, Payments Experiences",
+      "first_seen": "2026-09-28T21:59:21.746134+00:00"
+    },
+    "7235875": {
+      "title": "Backend Engineer, Privy",
+      "first_seen": "2026-09-28T21:59:21.746136+00:00"
+    },
+    "8202831": {
+      "title": "Benefits Program Manager, EMEA",
+      "first_seen": "2026-09-28T21:59:21.746138+00:00"
+    },
+    "7991528": {
+      "title": "Brand Producer, Link",
+      "first_seen": "2026-09-28T21:59:21.746140+00:00"
+    },
+    "8079783": {
+      "title": "Business Partner Analyst",
+      "first_seen": "2026-09-28T21:59:21.746141+00:00"
+    },
+    "8145117": {
+      "title": "Business Systems Architect (Tax)",
+      "first_seen": "2026-09-28T21:59:21.746144+00:00"
+    },
+    "8097051": {
+      "title": "Business Value Consultant",
+      "first_seen": "2026-09-28T21:59:21.746146+00:00"
+    },
+    "7584016": {
+      "title": "Campaign Strategy & Operations Manager",
+      "first_seen": "2026-09-28T21:59:21.746148+00:00"
+    },
+    "8206733": {
+      "title": "Capital Markets, FX Specialist",
+      "first_seen": "2026-09-28T21:59:21.746150+00:00"
+    },
+    "8164481": {
+      "title": "Capital Markets Investments",
+      "first_seen": "2026-09-28T21:59:21.746152+00:00"
+    },
+    "8195584": {
+      "title": "Channel Sales Executive",
+      "first_seen": "2026-09-28T21:59:21.746156+00:00"
+    },
+    "8126984": {
+      "title": "Channel Sales Executive, SaaS Platforms",
+      "first_seen": "2026-09-28T21:59:21.746158+00:00"
+    },
+    "7982720": {
+      "title": "Client Platform Security Engineer",
+      "first_seen": "2026-09-28T21:59:21.746160+00:00"
+    },
+    "7867389": {
+      "title": "Cloud Security Engineer",
+      "first_seen": "2026-09-28T21:59:21.746162+00:00"
+    },
+    "8092304": {
+      "title": "Commercial Counsel, EMEA",
+      "first_seen": "2026-09-28T21:59:21.746164+00:00"
+    },
+    "8114272": {
+      "title": "Comms, Public Goods",
+      "first_seen": "2026-09-28T21:59:21.746166+00:00"
+    },
+    "8103952": {
+      "title": "Communities Partner Development Manager, SaaS Platforms",
+      "first_seen": "2026-09-28T21:59:21.746168+00:00"
+    },
+    "8138000": {
+      "title": "Communities Partner Development Manager, SaaS Platforms",
+      "first_seen": "2026-09-28T21:59:21.746170+00:00"
+    },
+    "7530580": {
+      "title": "Compliance Manager, User Enablement",
+      "first_seen": "2026-09-28T21:59:21.746172+00:00"
+    },
+    "7967890": {
+      "title": "Consumer Operations Associate",
+      "first_seen": "2026-09-28T21:59:21.746174+00:00"
+    },
+    "7994945": {
+      "title": "Contracting Operations Specialist",
+      "first_seen": "2026-09-28T21:59:21.746177+00:00"
+    },
+    "8163187": {
+      "title": "Core Business Recruiter (Fixed Term Contract)",
+      "first_seen": "2026-09-28T21:59:21.746180+00:00"
+    },
+    "8158092": {
+      "title": "Core Recruiter (Risk, Partnerships, Operations)",
+      "first_seen": "2026-09-28T21:59:21.746183+00:00"
+    },
+    "7827403": {
+      "title": "Corporate Communications",
+      "first_seen": "2026-09-28T21:59:21.746186+00:00"
+    },
+    "8065818": {
+      "title": "Corporate Development M&A Integration Manager",
+      "first_seen": "2026-09-28T21:59:21.746188+00:00"
+    },
+    "8001341": {
+      "title": "Creative Director, Copy & Campaigns",
+      "first_seen": "2026-09-28T21:59:21.746190+00:00"
+    },
+    "8001909": {
+      "title": "Creative Director, Event Design",
+      "first_seen": "2026-09-28T21:59:21.746192+00:00"
+    },
+    "8213951": {
+      "title": "Credit Operations Manager",
+      "first_seen": "2026-09-28T21:59:21.746194+00:00"
+    },
+    "7540441": {
+      "title": "Credit Risk Analyst Commercial Underwriter, West Coast",
+      "first_seen": "2026-09-28T21:59:21.746196+00:00"
+    },
+    "7612192": {
+      "title": "Credit Risk Analyst, North American Underwriter",
+      "first_seen": "2026-09-28T21:59:21.746198+00:00"
+    },
+    "8104748": {
+      "title": " Credit Risk Operations Associate",
+      "first_seen": "2026-09-28T21:59:21.746202+00:00"
+    },
+    "7456167": {
+      "title": "Credit Risk Operations Associate (CDMX)",
+      "first_seen": "2026-09-28T21:59:21.746204+00:00"
+    },
+    "8047791": {
+      "title": "Credit Risk Operations Team Lead",
+      "first_seen": "2026-09-28T21:59:21.746206+00:00"
+    },
+    "8175816": {
+      "title": "Critical Support Operations Associate, Weekend Coverage",
+      "first_seen": "2026-09-28T21:59:21.746208+00:00"
+    },
+    "8188326": {
+      "title": "Crypto Controls and Compliance Lead ",
+      "first_seen": "2026-09-28T21:59:21.746210+00:00"
+    },
+    "7774312": {
+      "title": "Crypto Product Accounting ",
+      "first_seen": "2026-09-28T21:59:21.746213+00:00"
+    },
+    "7587353": {
+      "title": "Customer Funds Reconciliation Manager, Luxembourg",
+      "first_seen": "2026-09-28T21:59:21.746215+00:00"
+    },
+    "8175834": {
+      "title": "Customer Success Leader (Greater China)",
+      "first_seen": "2026-09-28T21:59:21.746218+00:00"
+    },
+    "7810205": {
+      "title": "Customer Success Manager",
+      "first_seen": "2026-09-28T21:59:21.746220+00:00"
+    },
+    "6558993": {
+      "title": "Customer Success Manager",
+      "first_seen": "2026-09-28T21:59:21.746222+00:00"
+    },
+    "8009536": {
+      "title": "Customer Success Manager ",
+      "first_seen": "2026-09-28T21:59:21.746224+00:00"
+    },
+    "8170772": {
+      "title": "Customer Success Manager ",
+      "first_seen": "2026-09-28T21:59:21.746226+00:00"
+    },
+    "8178692": {
+      "title": "Customer Success Manager, Enterprise",
+      "first_seen": "2026-09-28T21:59:21.746228+00:00"
+    },
+    "8208521": {
+      "title": "Customer Success Manager, Enterprise",
+      "first_seen": "2026-09-28T21:59:21.746230+00:00"
+    },
+    "8104481": {
+      "title": "Customer Success Manager, Key Accounts",
+      "first_seen": "2026-09-28T21:59:21.746232+00:00"
+    },
+    "8074199": {
+      "title": "Customer Success Manager, Metronome",
+      "first_seen": "2026-09-28T21:59:21.746235+00:00"
+    },
+    "8097840": {
+      "title": "Customer Success Manager, Platforms ",
+      "first_seen": "2026-09-28T21:59:21.746237+00:00"
+    },
+    "8049910": {
+      "title": "Customer Success Manager, Radar",
+      "first_seen": "2026-09-28T21:59:21.746239+00:00"
+    },
+    "8052814": {
+      "title": "Customer Success Manager, Revenue Suite",
+      "first_seen": "2026-09-28T21:59:21.746241+00:00"
+    },
+    "8194289": {
+      "title": "Customer Success Manager, RFA",
+      "first_seen": "2026-09-28T21:59:21.746243+00:00"
+    },
+    "5416444": {
+      "title": "Data Analyst",
+      "first_seen": "2026-09-28T21:59:21.746245+00:00"
+    },
+    "8230296": {
+      "title": "Data Analyst, Global Growth",
+      "first_seen": "2026-09-28T21:59:21.746247+00:00"
+    },
+    "8189909": {
+      "title": "Data Analyst, NYC ",
+      "first_seen": "2026-09-28T21:59:21.746249+00:00"
+    },
+    "8044924": {
+      "title": "Data Analyst, Payments",
+      "first_seen": "2026-09-28T21:59:21.746253+00:00"
+    },
+    "8106026": {
+      "title": "Data Excellence Manager ",
+      "first_seen": "2026-09-28T21:59:21.746255+00:00"
+    },
+    "7440963": {
+      "title": "Data Science Manager, Finance and Strategy",
+      "first_seen": "2026-09-28T21:59:21.746257+00:00"
+    },
+    "7923653": {
+      "title": "Data Science Manager, Risk",
+      "first_seen": "2026-09-28T21:59:21.746259+00:00"
+    },
+    "8222149": {
+      "title": "Data Scientist",
+      "first_seen": "2026-09-28T21:59:21.746262+00:00"
+    },
+    "8080614": {
+      "title": "Data Scientist, Core Infrastructure",
+      "first_seen": "2026-09-28T21:59:21.746264+00:00"
+    },
+    "8113100": {
+      "title": "Data Scientist, Fraud",
+      "first_seen": "2026-09-28T21:59:21.746266+00:00"
+    },
+    "8043052": {
+      "title": "Data Scientist, Global Growth",
+      "first_seen": "2026-09-28T21:59:21.746268+00:00"
+    },
+    "8018297": {
+      "title": "Data Scientist, Payments",
+      "first_seen": "2026-09-28T21:59:21.746270+00:00"
+    },
+    "7998031": {
+      "title": "Deal Pricing",
+      "first_seen": "2026-09-28T21:59:21.746272+00:00"
+    },
+    "8080240": {
+      "title": "Deal Pricing Strategist",
+      "first_seen": "2026-09-28T21:59:21.746276+00:00"
+    },
+    "7960875": {
+      "title": "Deal Pricing Strategist, APAC",
+      "first_seen": "2026-09-28T21:59:21.746278+00:00"
+    },
+    "7958150": {
+      "title": "Deal Strategist",
+      "first_seen": "2026-09-28T21:59:21.746280+00:00"
+    },
+    "8224612": {
+      "title": "Deal Strategist",
+      "first_seen": "2026-09-28T21:59:21.746284+00:00"
+    },
+    "8212314": {
+      "title": "Design Engineer, Expansion",
+      "first_seen": "2026-09-28T21:59:21.746286+00:00"
+    },
+    "7144975": {
+      "title": "Design Engineer, Presence",
+      "first_seen": "2026-09-28T21:59:21.746288+00:00"
+    },
+    "8130913": {
+      "title": "Designer, Web Presence & Platform",
+      "first_seen": "2026-09-28T21:59:21.746290+00:00"
+    },
+    "7977745": {
+      "title": "Designer, Web Presence & Platform",
+      "first_seen": "2026-09-28T21:59:21.746292+00:00"
+    },
+    "8155390": {
+      "title": "Design Program Manager, Research Operations",
+      "first_seen": "2026-09-28T21:59:21.746295+00:00"
+    },
+    "8203216": {
+      "title": "Editorial Director, Brand & Creative Partnerships",
+      "first_seen": "2026-09-28T21:59:21.746297+00:00"
+    },
+    "8209626": {
+      "title": "EMEA Demand Generation, Platforms ",
+      "first_seen": "2026-09-28T21:59:21.746300+00:00"
+    },
+    "8209649": {
+      "title": "Engagement Manager, Professional Services",
+      "first_seen": "2026-09-28T21:59:21.746302+00:00"
+    },
+    "8102337": {
+      "title": "Engagement Manager, Professional Services (SEA/GCN)",
+      "first_seen": "2026-09-28T21:59:21.746304+00:00"
+    },
+    "8172489": {
+      "title": "Engineering Manager, Abuse Control Engineering",
+      "first_seen": "2026-09-28T21:59:21.746306+00:00"
+    },
+    "8234252": {
+      "title": "Engineering Manager, Accounting Products",
+      "first_seen": "2026-09-28T21:59:21.746308+00:00"
+    },
+    "8172499": {
+      "title": "Engineering Manager, Agentic Commerce",
+      "first_seen": "2026-09-28T21:59:21.746310+00:00"
+    },
+    "7943804": {
+      "title": "Engineering Manager, AI Conversation Platform",
+      "first_seen": "2026-09-28T21:59:21.746312+00:00"
+    },
+    "7841757": {
+      "title": "Engineering Manager, APAC & EMEA Cards",
+      "first_seen": "2026-09-28T21:59:21.746314+00:00"
+    },
+    "8198193": {
+      "title": "Engineering Manager, Billing Collections",
+      "first_seen": "2026-09-28T21:59:21.746316+00:00"
+    },
+    "8165515": {
+      "title": "Engineering Manager, Billing Configuration",
+      "first_seen": "2026-09-28T21:59:21.746318+00:00"
+    },
+    "8180536": {
+      "title": "Engineering Manager, Billing Products",
+      "first_seen": "2026-09-28T21:59:21.746320+00:00"
+    },
+    "8161567": {
+      "title": "Engineering Manager, Checkout Optimization",
+      "first_seen": "2026-09-28T21:59:21.746322+00:00"
+    },
+    "7835108": {
+      "title": "Engineering Manager - Core Performance",
+      "first_seen": "2026-09-28T21:59:21.746324+00:00"
+    },
+    "7688358": {
+      "title": "Engineering Manager, Data Transformation",
+      "first_seen": "2026-09-28T21:59:21.746325+00:00"
+    },
+    "7947546": {
+      "title": "Engineering Manager, Forward Deployed (Privy)",
+      "first_seen": "2026-09-28T21:59:21.746328+00:00"
+    },
+    "8128496": {
+      "title": "Engineering Manager, Infrastructure",
+      "first_seen": "2026-09-28T21:59:21.746330+00:00"
+    },
+    "8230300": {
+      "title": "Engineering Manager - LPM Foundations",
+      "first_seen": "2026-09-28T21:59:21.746331+00:00"
+    },
+    "8205280": {
+      "title": "Engineering Manager, Machine Learning - Credit Risk",
+      "first_seen": "2026-09-28T21:59:21.746333+00:00"
+    },
+    "8069506": {
+      "title": "Engineering Manager, Machine Learning - Fraud Detection",
+      "first_seen": "2026-09-28T21:59:21.746335+00:00"
+    },
+    "8155381": {
+      "title": "Engineering Manager of Managers, Service Infrastructure",
+      "first_seen": "2026-09-28T21:59:21.746337+00:00"
+    },
+    "8104767": {
+      "title": "Engineering Manager, Payments",
+      "first_seen": "2026-09-28T21:59:21.746339+00:00"
+    },
+    "7913545": {
+      "title": "Engineering Manager, Platform (Privy)",
+      "first_seen": "2026-09-28T21:59:21.746343+00:00"
+    },
+    "8124299": {
+      "title": "Engineering Manager, Requirements Management (Risk)",
+      "first_seen": "2026-09-28T21:59:21.746347+00:00"
+    },
+    "7769005": {
+      "title": "Engineering Manager, Terminal",
+      "first_seen": "2026-09-28T21:59:21.746349+00:00"
+    },
+    "8109607": {
+      "title": "Enterprise Account Executive - Hunter",
+      "first_seen": "2026-09-28T21:59:21.746351+00:00"
+    },
+    "8232741": {
+      "title": "Enterprise Account Executive, Privy",
+      "first_seen": "2026-09-28T21:59:21.746353+00:00"
+    },
+    "8232743": {
+      "title": "Enterprise Account Executive, Privy",
+      "first_seen": "2026-09-28T21:59:21.746355+00:00"
+    },
+    "8029128": {
+      "title": "Enterprise Account Executive, Revenue Suite (Grower)",
+      "first_seen": "2026-09-28T21:59:21.746357+00:00"
+    },
+    "8155639": {
+      "title": "Enterprise Services Manager, Professional Services Sales",
+      "first_seen": "2026-09-28T21:59:21.746359+00:00"
+    },
+    "8163198": {
+      "title": "Enterprise Services Manager, Professional Services Sales (SEA/GCN)",
+      "first_seen": "2026-09-28T21:59:21.746361+00:00"
+    },
+    "8141829": {
+      "title": "Enterprise Support Specialist",
+      "first_seen": "2026-09-28T21:59:21.746363+00:00"
+    },
+    "8191248": {
+      "title": "Enterprise Support Specialist ",
+      "first_seen": "2026-09-28T21:59:21.746365+00:00"
+    },
+    "8190030": {
+      "title": "Executive Advisory Programs Manager",
+      "first_seen": "2026-09-28T21:59:21.746366+00:00"
+    },
+    "8175675": {
+      "title": "Executive Engagement Marketing Manager, Americas",
+      "first_seen": "2026-09-28T21:59:21.746368+00:00"
+    },
+    "7634113": {
+      "title": "Field Marketing Manager, SMB and Mid-Market - EMEA",
+      "first_seen": "2026-09-28T21:59:21.746370+00:00"
+    },
+    "7597613": {
+      "title": "Finance and Strategy Specialist",
+      "first_seen": "2026-09-28T21:59:21.746373+00:00"
+    },
+    "8231575": {
+      "title": "Finance & Strategy Analyst",
+      "first_seen": "2026-09-28T21:59:21.746375+00:00"
+    },
+    "8066264": {
+      "title": "Financial Analyst, Business F&S",
+      "first_seen": "2026-09-28T21:59:21.746377+00:00"
+    },
+    "8004223": {
+      "title": "Financial Connections TechOps Integration Reliability Engineer",
+      "first_seen": "2026-09-28T21:59:21.746379+00:00"
+    },
+    "8079918": {
+      "title": "Financial Connections TechOps Manager",
+      "first_seen": "2026-09-28T21:59:21.746381+00:00"
+    },
+    "7974209": {
+      "title": "Financial Crimes Analyst, Crypto Investigations",
+      "first_seen": "2026-09-28T21:59:21.746383+00:00"
+    },
+    "8186442": {
+      "title": "Financial Data Analyst Intern, Technical Operations",
+      "first_seen": "2026-09-28T21:59:21.746386+00:00"
+    },
+    "8040825": {
+      "title": "Firmware Engineer",
+      "first_seen": "2026-09-28T21:59:21.746388+00:00"
+    },
+    "7747640": {
+      "title": "Forward Deployed AI Accelerator, Marketing",
+      "first_seen": "2026-09-28T21:59:21.746390+00:00"
+    },
+    "8055930": {
+      "title": "Forward Deployed AI Accelerator, Marketing",
+      "first_seen": "2026-09-28T21:59:21.746392+00:00"
+    },
+    "7230452": {
+      "title": "Forward Deployed Engineer, Privy",
+      "first_seen": "2026-09-28T21:59:21.746394+00:00"
+    },
+    "8181003": {
+      "title": "Forward Deployed Security Engineer",
+      "first_seen": "2026-09-28T21:59:21.746396+00:00"
+    },
+    "8076652": {
+      "title": "Fraud Operations Associate (Mandarin Speaking)",
+      "first_seen": "2026-09-28T21:59:21.746398+00:00"
+    },
+    "8066310": {
+      "title": "Fraud Operations Associate SDC",
+      "first_seen": "2026-09-28T21:59:21.746401+00:00"
+    },
+    "7651078": {
+      "title": "Fraud Operations Associate SDC",
+      "first_seen": "2026-09-28T21:59:21.746404+00:00"
+    },
+    "8175832": {
+      "title": "Fraud Operations Manager",
+      "first_seen": "2026-09-28T21:59:21.746408+00:00"
+    },
+    "7608396": {
+      "title": "Fraud Operations Manager",
+      "first_seen": "2026-09-28T21:59:21.746410+00:00"
+    },
+    "7994541": {
+      "title": "Fraud Operations Manager (Mandarin-speaking)",
+      "first_seen": "2026-09-28T21:59:21.746412+00:00"
+    },
+    "7685460": {
+      "title": "Fraud Operations Team Lead",
+      "first_seen": "2026-09-28T21:59:21.746415+00:00"
+    },
+    "8063857": {
+      "title": "Fraud Operations Team Lead",
+      "first_seen": "2026-09-28T21:59:21.746417+00:00"
+    },
+    "7913410": {
+      "title": "Fraud Patterns Analyst",
+      "first_seen": "2026-09-28T21:59:21.746419+00:00"
+    },
+    "8195058": {
+      "title": "Fraud Strategist",
+      "first_seen": "2026-09-28T21:59:21.746421+00:00"
+    },
+    "8112448": {
+      "title": "Fraud Strategist",
+      "first_seen": "2026-09-28T21:59:21.746423+00:00"
+    },
+    "8194606": {
+      "title": "Frontend Engineer, Data Product Experiences",
+      "first_seen": "2026-09-28T21:59:21.746425+00:00"
+    },
+    "8194604": {
+      "title": "Frontend Engineer, Data Product Experiences",
+      "first_seen": "2026-09-28T21:59:21.746427+00:00"
+    },
+    "7644950": {
+      "title": "Frontend Engineer, Expansion",
+      "first_seen": "2026-09-28T21:59:21.746429+00:00"
+    },
+    "8131132": {
+      "title": "F&S COE Manager",
+      "first_seen": "2026-09-28T21:59:21.746431+00:00"
+    },
+    "6786324": {
+      "title": "Full Stack Engineer, Billing",
+      "first_seen": "2026-09-28T21:59:21.746433+00:00"
+    },
+    "8142764": {
+      "title": "Full Stack Engineer, Bridge",
+      "first_seen": "2026-09-28T21:59:21.746435+00:00"
+    },
+    "6567104": {
+      "title": "Full Stack Engineer, Developer & End User Experience Platform",
+      "first_seen": "2026-09-28T21:59:21.746437+00:00"
+    },
+    "8118929": {
+      "title": "Full Stack Engineer, Enterprise & Ecosystem",
+      "first_seen": "2026-09-28T21:59:21.746439+00:00"
+    },
+    "7964956": {
+      "title": "Full Stack Engineer, Growth",
+      "first_seen": "2026-09-28T21:59:21.746441+00:00"
+    },
+    "8062305": {
+      "title": "Full Stack Engineer, Link",
+      "first_seen": "2026-09-28T21:59:21.746443+00:00"
+    },
+    "6606581": {
+      "title": "Full Stack Engineer, Money as a Service",
+      "first_seen": "2026-09-28T21:59:21.746445+00:00"
+    },
+    "8226261": {
+      "title": "Full Stack Engineer, Money Movement",
+      "first_seen": "2026-09-28T21:59:21.746447+00:00"
+    },
+    "8039548": {
+      "title": "Full Stack Engineer, Support Experience (Greater China Support)",
+      "first_seen": "2026-09-28T21:59:21.746449+00:00"
+    },
+    "7436086": {
+      "title": "Full Stack Engineer, Web Presence and Platform",
+      "first_seen": "2026-09-28T21:59:21.746453+00:00"
+    },
+    "7895284": {
+      "title": "Full Stack Software Engineer, Brazil",
+      "first_seen": "2026-09-28T21:59:21.746455+00:00"
+    },
+    "8146053": {
+      "title": "Global Partnerships Lead \u2014 Greater China, Hong Kong & Singapore",
+      "first_seen": "2026-09-28T21:59:21.746457+00:00"
+    },
+    "7553098": {
+      "title": "Global People Support - People Ops Manager",
+      "first_seen": "2026-09-28T21:59:21.746460+00:00"
+    },
+    "8078168": {
+      "title": "Growth Marketing Manager, Greater China",
+      "first_seen": "2026-09-28T21:59:21.746462+00:00"
+    },
+    "7993610": {
+      "title": "GTM Operations Process Architect",
+      "first_seen": "2026-09-28T21:59:21.746464+00:00"
+    },
+    "7990812": {
+      "title": "GTM Product Marketing Manager, Commerce Experiences",
+      "first_seen": "2026-09-28T21:59:21.746468+00:00"
+    },
+    "8141450": {
+      "title": "GTM Recruiter",
+      "first_seen": "2026-09-28T21:59:21.746471+00:00"
+    },
+    "8141453": {
+      "title": "GTM Recruiter, APAC (Fixed Term Contract)",
+      "first_seen": "2026-09-28T21:59:21.746473+00:00"
+    },
+    "8016504": {
+      "title": "GTM Recruiter (Fixed Term)",
+      "first_seen": "2026-09-28T21:59:21.746475+00:00"
+    },
+    "8230564": {
+      "title": "GTM Sourcer (Fixed Term Contract)",
+      "first_seen": "2026-09-28T21:59:21.746476+00:00"
+    },
+    "8145119": {
+      "title": "GTM Strategy & Operations Analyst",
+      "first_seen": "2026-09-28T21:59:21.746479+00:00"
+    },
+    "8195483": {
+      "title": "GTM Strategy & Operations Analyst",
+      "first_seen": "2026-09-28T21:59:21.746481+00:00"
+    },
+    "8201680": {
+      "title": "GTM Strategy & Operations Analyst",
+      "first_seen": "2026-09-28T21:59:21.746484+00:00"
+    },
+    "8128634": {
+      "title": "Head of AEO & SEO",
+      "first_seen": "2026-09-28T21:59:21.746486+00:00"
+    },
+    "8014382": {
+      "title": "Head of Brand Studio Operations",
+      "first_seen": "2026-09-28T21:59:21.746488+00:00"
+    },
+    "7684149": {
+      "title": "Head of Communications, APAC",
+      "first_seen": "2026-09-28T21:59:21.746490+00:00"
+    },
+    "7950828": {
+      "title": "Head of Finance Operations",
+      "first_seen": "2026-09-28T21:59:21.746492+00:00"
+    },
+    "8036235": {
+      "title": "Head of Market Intelligence, Product Marketing",
+      "first_seen": "2026-09-28T21:59:21.746495+00:00"
+    },
+    "8154531": {
+      "title": "Head of Money Management, Finance & Strategy ",
+      "first_seen": "2026-09-28T21:59:21.746497+00:00"
+    },
+    "7915144": {
+      "title": "Head of Platforms Solutions Architecture",
+      "first_seen": "2026-09-28T21:59:21.746499+00:00"
+    },
+    "8165855": {
+      "title": "Head of Private Equity and Advisory Partnerships",
+      "first_seen": "2026-09-28T21:59:21.746501+00:00"
+    },
+    "8156998": {
+      "title": "Head of Sales, Billing",
+      "first_seen": "2026-09-28T21:59:21.746503+00:00"
+    },
+    "8225841": {
+      "title": "Head of Sales, India",
+      "first_seen": "2026-09-28T21:59:21.746505+00:00"
+    },
+    "7523947": {
+      "title": "Head of Specialist Solutions Architecture, Revenue (AMER)",
+      "first_seen": "2026-09-28T21:59:21.746507+00:00"
+    },
+    "8110416": {
+      "title": "Head of Startup Sales (Grower) - AMER",
+      "first_seen": "2026-09-28T21:59:21.746509+00:00"
+    },
+    "8076108": {
+      "title": "Head of Strategic Risk Programs, New Markets",
+      "first_seen": "2026-09-28T21:59:21.746512+00:00"
+    },
+    "8179347": {
+      "title": "Implementation Consultant (AUNZ)",
+      "first_seen": "2026-09-28T21:59:21.746514+00:00"
+    },
+    "8203977": {
+      "title": "Implementation Consultant, Professional Services",
+      "first_seen": "2026-09-28T21:59:21.746516+00:00"
+    },
+    "8175818": {
+      "title": "Implementation Consultant (SEA/GCN)",
+      "first_seen": "2026-09-28T21:59:21.746519+00:00"
+    },
+    "7393071": {
+      "title": "Implementation Specialist, GTM Accelerate",
+      "first_seen": "2026-09-28T21:59:21.746521+00:00"
+    },
+    "8172493": {
+      "title": "Incident Response Manager - Abuse Operations ",
+      "first_seen": "2026-09-28T21:59:21.746523+00:00"
+    },
+    "8007205": {
+      "title": "Incident Response Manager - Security ",
+      "first_seen": "2026-09-28T21:59:21.746525+00:00"
+    },
+    "8189020": {
+      "title": "India Tax Lead - Tax, APAC",
+      "first_seen": "2026-09-28T21:59:21.746527+00:00"
+    },
+    "7589400": {
+      "title": "Indirect Tax Advisory Consultant",
+      "first_seen": "2026-09-28T21:59:21.746529+00:00"
+    },
+    "7462961": {
+      "title": "Infrastructure Engineer, Privy",
+      "first_seen": "2026-09-28T21:59:21.746532+00:00"
+    },
+    "8067276": {
+      "title": "Integrated Campaigns Manager - Stablecoins, Crypto, and Bridge",
+      "first_seen": "2026-09-28T21:59:21.746534+00:00"
+    },
+    "8187572": {
+      "title": "Integrated Marketing Lead, Cross Product",
+      "first_seen": "2026-09-28T21:59:21.746536+00:00"
+    },
+    "8175647": {
+      "title": "Integration Engineer (Metronome) ",
+      "first_seen": "2026-09-28T21:59:21.746538+00:00"
+    },
+    "8080454": {
+      "title": "Integration Engineer, Metronome",
+      "first_seen": "2026-09-28T21:59:21.746540+00:00"
+    },
+    "8171222": {
+      "title": "Integration Engineer, Metronome ",
+      "first_seen": "2026-09-28T21:59:21.746542+00:00"
+    },
+    "8075570": {
+      "title": "Integration Engineer, Professional Services",
+      "first_seen": "2026-09-28T21:59:21.746544+00:00"
+    },
+    "8075577": {
+      "title": "Integration Engineer, Professional Services",
+      "first_seen": "2026-09-28T21:59:21.746546+00:00"
+    },
+    "8203973": {
+      "title": "Integration Engineer, Professional Services",
+      "first_seen": "2026-09-28T21:59:21.746548+00:00"
+    },
+    "8053417": {
+      "title": "Integration Engineer, SEA/GCN",
+      "first_seen": "2026-09-28T21:59:21.746550+00:00"
+    },
+    "8186367": {
+      "title": "Integration Reliability Engineer Intern, Technical Operations",
+      "first_seen": "2026-09-28T21:59:21.746552+00:00"
+    },
+    "8054241": {
+      "title": "Integration Reliability Engineer, Payments",
+      "first_seen": "2026-09-28T21:59:21.746554+00:00"
+    },
+    "8186445": {
+      "title": "Integration Reliability Engineer, Technical Operations",
+      "first_seen": "2026-09-28T21:59:21.746556+00:00"
+    },
+    "8026689": {
+      "title": "Internal Audit Data Analytics Lead",
+      "first_seen": "2026-09-28T21:59:21.746559+00:00"
+    },
+    "8036233": {
+      "title": "Internal Auditor - APAC Regulatory & Financial Operations",
+      "first_seen": "2026-09-28T21:59:21.746561+00:00"
+    },
+    "8205278": {
+      "title": "Internal Audit - Regulatory Lead, EMEA",
+      "first_seen": "2026-09-28T21:59:21.746563+00:00"
+    },
+    "7678541": {
+      "title": "Internal Audit - Treasury",
+      "first_seen": "2026-09-28T21:59:21.746565+00:00"
+    },
+    "7896151": {
+      "title": "Internal Product Engineer, Developer Productivity AI ",
+      "first_seen": "2026-09-28T21:59:21.746569+00:00"
+    },
+    "8172491": {
+      "title": "Investigator ",
+      "first_seen": "2026-09-28T21:59:21.746571+00:00"
+    },
+    "8083464": {
+      "title": "Investment Lead, Intercept",
+      "first_seen": "2026-09-28T21:59:21.746573+00:00"
+    },
+    "8022463": {
+      "title": "KYB/KYC Operations Associate, Bridge (English fluency)",
+      "first_seen": "2026-09-28T21:59:21.746575+00:00"
+    },
+    "8209647": {
+      "title": "Large User Sales Managers, Platform Partnerships",
+      "first_seen": "2026-09-28T21:59:21.746581+00:00"
+    },
+    "6209187": {
+      "title": "Legal Entity Controller",
+      "first_seen": "2026-09-28T21:59:21.746583+00:00"
+    },
+    "8230294": {
+      "title": "Legal Operations Team Lead",
+      "first_seen": "2026-09-28T21:59:21.746585+00:00"
+    },
+    "8082149": {
+      "title": "Lifecycle Marketing Manager, Capital",
+      "first_seen": "2026-09-28T21:59:21.746588+00:00"
+    },
+    "8187580": {
+      "title": "Link Social Lead ",
+      "first_seen": "2026-09-28T21:59:21.746590+00:00"
+    },
+    "8014859": {
+      "title": "Machine Learning Engineer",
+      "first_seen": "2026-09-28T21:59:21.746592+00:00"
+    },
+    "8224915": {
+      "title": "Machine Learning Engineer, Growth Platform",
+      "first_seen": "2026-09-28T21:59:21.746593+00:00"
+    },
+    "8197886": {
+      "title": "Machine Learning Engineer, Link",
+      "first_seen": "2026-09-28T21:59:21.746596+00:00"
+    },
+    "8175671": {
+      "title": "Manager, Competitive Programs",
+      "first_seen": "2026-09-28T21:59:21.746599+00:00"
+    },
+    "8181034": {
+      "title": "Manager, Customer Success Manager",
+      "first_seen": "2026-09-28T21:59:21.746602+00:00"
+    },
+    "8181032": {
+      "title": "Manager, Customer Success Manager",
+      "first_seen": "2026-09-28T21:59:21.746604+00:00"
+    },
+    "8181022": {
+      "title": "Manager, Customer Success Platforms",
+      "first_seen": "2026-09-28T21:59:21.746606+00:00"
+    },
+    "8014898": {
+      "title": "Manager, Global Sanctions",
+      "first_seen": "2026-09-28T21:59:21.746608+00:00"
+    },
+    "7896802": {
+      "title": "Manager, Global Sanctions ",
+      "first_seen": "2026-09-28T21:59:21.746610+00:00"
+    },
+    "8212674": {
+      "title": "Manager, Go-to-Market Enablement Business Partners",
+      "first_seen": "2026-09-28T21:59:21.746611+00:00"
+    },
+    "7703750": {
+      "title": "Manager - Legal Entity Controller",
+      "first_seen": "2026-09-28T21:59:21.746614+00:00"
+    },
+    "8175826": {
+      "title": "Manager, Payments Performance (SEA and Greater China) ",
+      "first_seen": "2026-09-28T21:59:21.746615+00:00"
+    },
+    "7472519": {
+      "title": "Manager, Product Support Operations - Top Startups",
+      "first_seen": "2026-09-28T21:59:21.746618+00:00"
+    },
+    "8138302": {
+      "title": "Manager, Risk Operations Technology Programs",
+      "first_seen": "2026-09-28T21:59:21.746620+00:00"
+    },
+    "7896538": {
+      "title": "Manager, Sales Development",
+      "first_seen": "2026-09-28T21:59:21.746622+00:00"
+    },
+    "7337544": {
+      "title": "Manager, Sales Development",
+      "first_seen": "2026-09-28T21:59:21.746624+00:00"
+    },
+    "8104302": {
+      "title": "Manager, Solution Architecture Platforms",
+      "first_seen": "2026-09-28T21:59:21.746626+00:00"
+    },
+    "8163542": {
+      "title": "Manager, Solutions Architecture- Enterprise Hunter",
+      "first_seen": "2026-09-28T21:59:21.746628+00:00"
+    },
+    "8175633": {
+      "title": "Manager, Solutions Architecture - Enterprise (West)",
+      "first_seen": "2026-09-28T21:59:21.746630+00:00"
+    },
+    "8175667": {
+      "title": "Manager, Solutions Architecture - Platforms (Chicago)",
+      "first_seen": "2026-09-28T21:59:21.746634+00:00"
+    },
+    "7767222": {
+      "title": "Manager, Technical Account Management",
+      "first_seen": "2026-09-28T21:59:21.746636+00:00"
+    },
+    "8152136": {
+      "title": "Manager, Technical Account Management",
+      "first_seen": "2026-09-28T21:59:21.746638+00:00"
+    },
+    "8154304": {
+      "title": "Manager, Technical Account Management",
+      "first_seen": "2026-09-28T21:59:21.746640+00:00"
+    },
+    "8007738": {
+      "title": "Manager, Technical Program Management",
+      "first_seen": "2026-09-28T21:59:21.746644+00:00"
+    },
+    "7805386": {
+      "title": "Marketing Operations Manager",
+      "first_seen": "2026-09-28T21:59:21.746646+00:00"
+    },
+    "8172495": {
+      "title": "Marketing Operations Program Manager, EMEA Events",
+      "first_seen": "2026-09-28T21:59:21.746648+00:00"
+    },
+    "8176256": {
+      "title": "Marketing Operations Program Manager, Events APAC ",
+      "first_seen": "2026-09-28T21:59:21.746650+00:00"
+    },
+    "8069943": {
+      "title": "Marketing Services Program Manager",
+      "first_seen": "2026-09-28T21:59:21.746653+00:00"
+    },
+    "8022713": {
+      "title": "ML Engineer Manager, AI Conversation Platform",
+      "first_seen": "2026-09-28T21:59:21.746655+00:00"
+    },
+    "7978915": {
+      "title": "Mobile Engineer, Treasury",
+      "first_seen": "2026-09-28T21:59:21.746657+00:00"
+    },
+    "8109554": {
+      "title": "Monetization Operations Analyst",
+      "first_seen": "2026-09-28T21:59:21.746659+00:00"
+    },
+    "8021192": {
+      "title": "Monetization Operations Analyst",
+      "first_seen": "2026-09-28T21:59:21.746662+00:00"
+    },
+    "8187278": {
+      "title": "Money Management Demand Generation Manager, Americas",
+      "first_seen": "2026-09-28T21:59:21.746664+00:00"
+    },
+    "8233889": {
+      "title": "Offensive Security Engineer",
+      "first_seen": "2026-09-28T21:59:21.746666+00:00"
+    },
+    "8131339": {
+      "title": "Operations Associate, Apprenticeship",
+      "first_seen": "2026-09-28T21:59:21.746668+00:00"
+    },
+    "7955051": {
+      "title": "Operations Associate - Bridge (CDMX)",
+      "first_seen": "2026-09-28T21:59:21.746670+00:00"
+    },
+    "8014995": {
+      "title": "Operations Associate, Financial Crimes (AML Investigations)",
+      "first_seen": "2026-09-28T21:59:21.746674+00:00"
+    },
+    "8102597": {
+      "title": "Operations Associate, Financial Crimes EDD/PEP",
+      "first_seen": "2026-09-28T21:59:21.746677+00:00"
+    },
+    "7202953": {
+      "title": "Operations Associate, Financial Crimes EDD/PEP",
+      "first_seen": "2026-09-28T21:59:21.746679+00:00"
+    },
+    "8093103": {
+      "title": "Operations Associate - Managed Support (Includes Weekend Rotation)",
+      "first_seen": "2026-09-28T21:59:21.746681+00:00"
+    },
+    "7544547": {
+      "title": "Operations Associate, New Grad (Mexico)",
+      "first_seen": "2026-09-28T21:59:21.746685+00:00"
+    },
+    "7981587": {
+      "title": "Operations Associate - Product Support Operations (CDMX)",
+      "first_seen": "2026-09-28T21:59:21.746702+00:00"
+    },
+    "8098394": {
+      "title": "Operations Associate, Sanctions",
+      "first_seen": "2026-09-28T21:59:21.746706+00:00"
+    },
+    "7997542": {
+      "title": "Operations Insights, Tax",
+      "first_seen": "2026-09-28T21:59:21.746710+00:00"
+    },
+    "8053011": {
+      "title": "Operations Manager, Stripe Delivery Centre",
+      "first_seen": "2026-09-28T21:59:21.746713+00:00"
+    },
+    "8162189": {
+      "title": "Operations Recruiter",
+      "first_seen": "2026-09-28T21:59:21.746715+00:00"
+    },
+    "8096790": {
+      "title": "Partner Development Manager",
+      "first_seen": "2026-09-28T21:59:21.746717+00:00"
+    },
+    "8104427": {
+      "title": "Partner Development Manager",
+      "first_seen": "2026-09-28T21:59:21.746719+00:00"
+    },
+    "8165269": {
+      "title": "Partner Development Manager, AI Partnerships",
+      "first_seen": "2026-09-28T21:59:21.746721+00:00"
+    },
+    "8165267": {
+      "title": "Partner Development Manager, Alliances and Channels",
+      "first_seen": "2026-09-28T21:59:21.746723+00:00"
+    },
+    "8187566": {
+      "title": "Partner Development Manager, AMER Bank Partnerships",
+      "first_seen": "2026-09-28T21:59:21.746725+00:00"
+    },
+    "7289456": {
+      "title": "Partner Development Manager (Banks)",
+      "first_seen": "2026-09-28T21:59:21.746727+00:00"
+    },
+    "8208523": {
+      "title": "Partner Development Manager, Financial Partnership Capabilities",
+      "first_seen": "2026-09-28T21:59:21.746729+00:00"
+    },
+    "8143073": {
+      "title": "Partner Development Manager, Global Money Management",
+      "first_seen": "2026-09-28T21:59:21.746731+00:00"
+    },
+    "8160890": {
+      "title": "Partner Development Manager, Global Payment Methods",
+      "first_seen": "2026-09-28T21:59:21.746733+00:00"
+    },
+    "7677136": {
+      "title": "Partner Development Manager- Global Strategic Alliances",
+      "first_seen": "2026-09-28T21:59:21.746735+00:00"
+    },
+    "7461966": {
+      "title": "Partner Development Manager, Global Strategic Alliances",
+      "first_seen": "2026-09-28T21:59:21.746737+00:00"
+    },
+    "8090126": {
+      "title": "Partner Development Manager, Link - Payments Partnerships",
+      "first_seen": "2026-09-28T21:59:21.746740+00:00"
+    },
+    "8139202": {
+      "title": "Partner Development Manager- Platforms",
+      "first_seen": "2026-09-28T21:59:21.746743+00:00"
+    },
+    "8094869": {
+      "title": "Partner Development Manager, Strategic Partnerships",
+      "first_seen": "2026-09-28T21:59:21.746744+00:00"
+    },
+    "7973002": {
+      "title": "Partner Development Manager, Strategic Partnerships",
+      "first_seen": "2026-09-28T21:59:21.746746+00:00"
+    },
+    "8155164": {
+      "title": "Partner Development Manager, Strategic Payment Partnerships",
+      "first_seen": "2026-09-28T21:59:21.746748+00:00"
+    },
+    "8175661": {
+      "title": "Partner Marketing Manager, Online & Regional Events",
+      "first_seen": "2026-09-28T21:59:21.746750+00:00"
+    },
+    "8187570": {
+      "title": "Partner Marketing Operations Manager",
+      "first_seen": "2026-09-28T21:59:21.746753+00:00"
+    },
+    "8024033": {
+      "title": "Partner Solutions Architect, AI Partnerships",
+      "first_seen": "2026-09-28T21:59:21.746755+00:00"
+    },
+    "7927330": {
+      "title": "Partner Solutions Architect - Billing",
+      "first_seen": "2026-09-28T21:59:21.746759+00:00"
+    },
+    "8140581": {
+      "title": "Partner Solutions Architect - Commerce Partners",
+      "first_seen": "2026-09-28T21:59:21.746761+00:00"
+    },
+    "7927324": {
+      "title": "Partner Solutions Architect - LatAm",
+      "first_seen": "2026-09-28T21:59:21.746763+00:00"
+    },
+    "8175651": {
+      "title": "Partner Solutions Architecture Manager",
+      "first_seen": "2026-09-28T21:59:21.746765+00:00"
+    },
+    "8227563": {
+      "title": "Partner Solutions Engineer, Ecosystem",
+      "first_seen": "2026-09-28T21:59:21.746767+00:00"
+    },
+    "7554002": {
+      "title": "Payments Fraud Investigator",
+      "first_seen": "2026-09-28T21:59:21.746769+00:00"
+    },
+    "8155386": {
+      "title": "Payments Performance Strategist, LATAM",
+      "first_seen": "2026-09-28T21:59:21.746771+00:00"
+    },
+    "8069694": {
+      "title": "People Analytics Analyst & Business Partner",
+      "first_seen": "2026-09-28T21:59:21.746773+00:00"
+    },
+    "7866374": {
+      "title": "People Consultant",
+      "first_seen": "2026-09-28T21:59:21.746775+00:00"
+    },
+    "8049722": {
+      "title": "People Operations Associate (Centralized Operations)",
+      "first_seen": "2026-09-28T21:59:21.746777+00:00"
+    },
+    "8227572": {
+      "title": "People Operations Systems Administrator",
+      "first_seen": "2026-09-28T21:59:21.746780+00:00"
+    },
+    "8196283": {
+      "title": "People Operations Team Lead, Centralized Operations",
+      "first_seen": "2026-09-28T21:59:21.746782+00:00"
+    },
+    "7704660": {
+      "title": "People Partner",
+      "first_seen": "2026-09-28T21:59:21.746784+00:00"
+    },
+    "7466921": {
+      "title": "People Partner, Technology",
+      "first_seen": "2026-09-28T21:59:21.746786+00:00"
+    },
+    "8039954": {
+      "title": "People Project Manager",
+      "first_seen": "2026-09-28T21:59:21.746788+00:00"
+    },
+    "8178459": {
+      "title": "PMM Lead, Executive Content & Experiences ",
+      "first_seen": "2026-09-28T21:59:21.746792+00:00"
+    },
+    "7858811": {
+      "title": "Portfolio Pricing Strategist",
+      "first_seen": "2026-09-28T21:59:21.746794+00:00"
+    },
+    "7728618": {
+      "title": "Pre-Sales Solutions Architect, Billing",
+      "first_seen": "2026-09-28T21:59:21.746796+00:00"
+    },
+    "7370967": {
+      "title": "Pre-Sales Solutions Architect, Money Management",
+      "first_seen": "2026-09-28T21:59:21.746798+00:00"
+    },
+    "8187578": {
+      "title": "Pricing Strategist",
+      "first_seen": "2026-09-28T21:59:21.746800+00:00"
+    },
+    "8094087": {
+      "title": "Privacy Operations Program Manager",
+      "first_seen": "2026-09-28T21:59:21.746801+00:00"
+    },
+    "8177636": {
+      "title": "Processing cost Analyst",
+      "first_seen": "2026-09-28T21:59:21.746805+00:00"
+    },
+    "8139998": {
+      "title": "Product Analytics - Developer Experience, Bridge",
+      "first_seen": "2026-09-28T21:59:21.746807+00:00"
+    },
+    "8089358": {
+      "title": "Product Communications: crypto products",
+      "first_seen": "2026-09-28T21:59:21.746809+00:00"
+    },
+    "7930151": {
+      "title": "Product Counsel, Data Products",
+      "first_seen": "2026-09-28T21:59:21.746811+00:00"
+    },
+    "8125473": {
+      "title": "Product Counsel (Money Movement Legal - APAC) ",
+      "first_seen": "2026-09-28T21:59:21.746815+00:00"
+    },
+    "8089069": {
+      "title": "Product Counsel - RevSuite/Startups",
+      "first_seen": "2026-09-28T21:59:21.746817+00:00"
+    },
+    "7980578": {
+      "title": "Product Designer - Dashboard",
+      "first_seen": "2026-09-28T21:59:21.746819+00:00"
+    },
+    "7983076": {
+      "title": "Product Designer, Design Systems",
+      "first_seen": "2026-09-28T21:59:21.746821+00:00"
+    },
+    "7861422": {
+      "title": "Product Designer, Global",
+      "first_seen": "2026-09-28T21:59:21.746823+00:00"
+    },
+    "8164479": {
+      "title": "Product Designer, Growth",
+      "first_seen": "2026-09-28T21:59:21.746825+00:00"
+    },
+    "7954207": {
+      "title": "Product Designer, Internal Tools",
+      "first_seen": "2026-09-28T21:59:21.746827+00:00"
+    },
+    "7954118": {
+      "title": "Product Designer, Risk",
+      "first_seen": "2026-09-28T21:59:21.746829+00:00"
+    },
+    "7663023": {
+      "title": "Product Designer, Stablecoin",
+      "first_seen": "2026-09-28T21:59:21.746831+00:00"
+    },
+    "7925550": {
+      "title": "Product Designer, Terminal",
+      "first_seen": "2026-09-28T21:59:21.746833+00:00"
+    },
+    "8096726": {
+      "title": "Product Design Manager, Global Payments",
+      "first_seen": "2026-09-28T21:59:21.746834+00:00"
+    },
+    "7869917": {
+      "title": "Product Lead, Support Experience",
+      "first_seen": "2026-09-28T21:59:21.746836+00:00"
+    },
+    "8186541": {
+      "title": "Product Manager, Connected Account Onboarding Experiences",
+      "first_seen": "2026-09-28T21:59:21.746838+00:00"
+    },
+    "8195440": {
+      "title": "Product Manager, Connect Growth & Monetization",
+      "first_seen": "2026-09-28T21:59:21.746840+00:00"
+    },
+    "8204227": {
+      "title": "Product Manager - Developer Experience, Bridge",
+      "first_seen": "2026-09-28T21:59:21.746842+00:00"
+    },
+    "7984866": {
+      "title": "Product Manager, Ecosystem Risk",
+      "first_seen": "2026-09-28T21:59:21.746844+00:00"
+    },
+    "8041655": {
+      "title": "Product Manager, E-Invoicing",
+      "first_seen": "2026-09-28T21:59:21.746846+00:00"
+    },
+    "8203423": {
+      "title": "Product Manager, Employee Experiences",
+      "first_seen": "2026-09-28T21:59:21.746848+00:00"
+    },
+    "7994443": {
+      "title": "Product Manager, Global Payouts",
+      "first_seen": "2026-09-28T21:59:21.746850+00:00"
+    },
+    "7586413": {
+      "title": "Product Manager, Hardware",
+      "first_seen": "2026-09-28T21:59:21.746852+00:00"
+    },
+    "8165137": {
+      "title": "Product Manager, Identity & Access Management",
+      "first_seen": "2026-09-28T21:59:21.746854+00:00"
+    },
+    "8223723": {
+      "title": "Product Manager - Issuance, Bridge",
+      "first_seen": "2026-09-28T21:59:21.746856+00:00"
+    },
+    "7392697": {
+      "title": "Product Manager, Link - Consumer",
+      "first_seen": "2026-09-28T21:59:21.746858+00:00"
+    },
+    "7981330": {
+      "title": "Product Manager, Link - Local Payment Methods",
+      "first_seen": "2026-09-28T21:59:21.746860+00:00"
+    },
+    "8140438": {
+      "title": "Product Manager, Mobile",
+      "first_seen": "2026-09-28T21:59:21.746862+00:00"
+    },
+    "7737124": {
+      "title": "Product Manager: New Grad Accelerator",
+      "first_seen": "2026-09-28T21:59:21.746864+00:00"
+    },
+    "7176530": {
+      "title": "Product Manager, Payments",
+      "first_seen": "2026-09-28T21:59:21.746866+00:00"
+    },
+    "8176254": {
+      "title": "Product Manager,  Startup Products",
+      "first_seen": "2026-09-28T21:59:21.746870+00:00"
+    },
+    "8122188": {
+      "title": "Product Manager, Strategic Apps",
+      "first_seen": "2026-09-28T21:59:21.746872+00:00"
+    },
+    "8143563": {
+      "title": "Product Manager, Support Platform ",
+      "first_seen": "2026-09-28T21:59:21.746874+00:00"
+    },
+    "7983856": {
+      "title": "Product Manager, Treasury for Platforms",
+      "first_seen": "2026-09-28T21:59:21.746876+00:00"
+    },
+    "7773461": {
+      "title": "Product Marketing, Data Products",
+      "first_seen": "2026-09-28T21:59:21.746880+00:00"
+    },
+    "8090203": {
+      "title": "Product Marketing Lead, Billing",
+      "first_seen": "2026-09-28T21:59:21.746883+00:00"
+    },
+    "6348471": {
+      "title": "Product Marketing Manager",
+      "first_seen": "2026-09-28T21:59:21.746885+00:00"
+    },
+    "8152994": {
+      "title": "Product Marketing Manager, Bridge/Stablecoins",
+      "first_seen": "2026-09-28T21:59:21.746887+00:00"
+    },
+    "8014761": {
+      "title": "Product Marketing Manager, Market Intelligence",
+      "first_seen": "2026-09-28T21:59:21.746889+00:00"
+    },
+    "8142770": {
+      "title": "Product Marketing Manager, Payments",
+      "first_seen": "2026-09-28T21:59:21.746891+00:00"
+    },
+    "7832098": {
+      "title": "Product Marketing Manager, Portfolio Pricing",
+      "first_seen": "2026-09-28T21:59:21.746893+00:00"
+    },
+    "7961101": {
+      "title": "Product Marketing Manager, Radar",
+      "first_seen": "2026-09-28T21:59:21.746895+00:00"
+    },
+    "8233263": {
+      "title": "Product Marketing Manager, Revenue suite",
+      "first_seen": "2026-09-28T21:59:21.746897+00:00"
+    },
+    "8097731": {
+      "title": "Product Marketing Manager, Startup Segment",
+      "first_seen": "2026-09-28T21:59:21.746899+00:00"
+    },
+    "8163532": {
+      "title": "Product Operations Manager",
+      "first_seen": "2026-09-28T21:59:21.746901+00:00"
+    },
+    "8163193": {
+      "title": "Product Recruiter",
+      "first_seen": "2026-09-28T21:59:21.746903+00:00"
+    },
+    "8179341": {
+      "title": "Product Sales Development Representative (Mandarin-speaking)",
+      "first_seen": "2026-09-28T21:59:21.746905+00:00"
+    },
+    "7994063": {
+      "title": "Product Sales Enablement Business Partner",
+      "first_seen": "2026-09-28T21:59:21.746907+00:00"
+    },
+    "8081423": {
+      "title": "Product Strategy & Operations APAC",
+      "first_seen": "2026-09-28T21:59:21.746909+00:00"
+    },
+    "8177640": {
+      "title": "Product Strategy & Operations - Global Product",
+      "first_seen": "2026-09-28T21:59:21.746911+00:00"
+    },
+    "7975698": {
+      "title": "Product Support Operations Associate, Weekend Shift",
+      "first_seen": "2026-09-28T21:59:21.746914+00:00"
+    },
+    "8148497": {
+      "title": "Product Support Specialist",
+      "first_seen": "2026-09-28T21:59:21.746916+00:00"
+    },
+    "8236757": {
+      "title": "Product Support Specialist",
+      "first_seen": "2026-09-28T21:59:21.746918+00:00"
+    },
+    "8209633": {
+      "title": "Program Manager, Business Practices",
+      "first_seen": "2026-09-28T21:59:21.746920+00:00"
+    },
+    "8081754": {
+      "title": "Program Manager, Card Network Office (Card Networks)",
+      "first_seen": "2026-09-28T21:59:21.746922+00:00"
+    },
+    "7967356": {
+      "title": "Program Manager, Commercial Solutions",
+      "first_seen": "2026-09-28T21:59:21.746924+00:00"
+    },
+    "8175673": {
+      "title": "Program Manager, Competitive Programs",
+      "first_seen": "2026-09-28T21:59:21.746926+00:00"
+    },
+    "8181030": {
+      "title": "Program Manager, Customer Advocacy & Programs",
+      "first_seen": "2026-09-28T21:59:21.746928+00:00"
+    },
+    "8147961": {
+      "title": "Program Manager, GTM Planning",
+      "first_seen": "2026-09-28T21:59:21.746930+00:00"
+    },
+    "8042309": {
+      "title": "Program Manager, GTM Strategic Programs",
+      "first_seen": "2026-09-28T21:59:21.746934+00:00"
+    },
+    "8127890": {
+      "title": "Program Manager, Performance and Talent Planning",
+      "first_seen": "2026-09-28T21:59:21.746936+00:00"
+    },
+    "8007692": {
+      "title": "Program Manager, Professional Services",
+      "first_seen": "2026-09-28T21:59:21.746939+00:00"
+    },
+    "8209641": {
+      "title": "Program Manager, Risk Operations GTM Enablement",
+      "first_seen": "2026-09-28T21:59:21.746942+00:00"
+    },
+    "8158082": {
+      "title": "Program Manager, Risk Operations GTM Enablement",
+      "first_seen": "2026-09-28T21:59:21.746944+00:00"
+    },
+    "8175644": {
+      "title": "Project Manager, People Mergers & Acquisitions (M&A)",
+      "first_seen": "2026-09-28T21:59:21.746946+00:00"
+    },
+    "8077547": {
+      "title": "Project Manager, Total Rewards",
+      "first_seen": "2026-09-28T21:59:21.746948+00:00"
+    },
+    "8047395": {
+      "title": "Project Manager, Treasury Finance",
+      "first_seen": "2026-09-28T21:59:21.746950+00:00"
+    },
+    "8210228": {
+      "title": "Proposal Lead",
+      "first_seen": "2026-09-28T21:59:21.746952+00:00"
+    },
+    "8231145": {
+      "title": "Recruiting Coordinator (Fixed-Term Contract)",
+      "first_seen": "2026-09-28T21:59:21.746954+00:00"
+    },
+    "8142077": {
+      "title": "Recruiting Project Manager",
+      "first_seen": "2026-09-28T21:59:21.746956+00:00"
+    },
+    "7650177": {
+      "title": "Regulatory Reporting Program Manager, Stablecoin",
+      "first_seen": "2026-09-28T21:59:21.746958+00:00"
+    },
+    "7230921": {
+      "title": "Risk Operations Analyst",
+      "first_seen": "2026-09-28T21:59:21.746960+00:00"
+    },
+    "7974211": {
+      "title": "Risk Operations Analyst, Financial Crimes",
+      "first_seen": "2026-09-28T21:59:21.746962+00:00"
+    },
+    "8175824": {
+      "title": "Risk Operations Analyst - SSO ",
+      "first_seen": "2026-09-28T21:59:21.746964+00:00"
+    },
+    "8115908": {
+      "title": "Risk Operations Associate",
+      "first_seen": "2026-09-28T21:59:21.746966+00:00"
+    },
+    "8158090": {
+      "title": "Risk Operations Associate, Partner Risk Operations (CDMX)",
+      "first_seen": "2026-09-28T21:59:21.746969+00:00"
+    },
+    "8069629": {
+      "title": "Risk Operations Manager, Verifications",
+      "first_seen": "2026-09-28T21:59:21.746971+00:00"
+    },
+    "8178563": {
+      "title": "Risk Partnerships Manager, Banks & Treasury",
+      "first_seen": "2026-09-28T21:59:21.746975+00:00"
+    },
+    "8078333": {
+      "title": "Risk Partnerships Manager, Stablecoin",
+      "first_seen": "2026-09-28T21:59:21.746977+00:00"
+    },
+    "7862938": {
+      "title": "Sales Compensation Design Lead",
+      "first_seen": "2026-09-28T21:59:21.746979+00:00"
+    },
+    "6470774": {
+      "title": "Sales Development Representative",
+      "first_seen": "2026-09-28T21:59:21.746981+00:00"
+    },
+    "6570253": {
+      "title": "Sales Development Representative",
+      "first_seen": "2026-09-28T21:59:21.746983+00:00"
+    },
+    "8074892": {
+      "title": "Sales Development Representative, AUNZ",
+      "first_seen": "2026-09-28T21:59:21.746985+00:00"
+    },
+    "6570259": {
+      "title": "Sales Development Representative (German fluency) ",
+      "first_seen": "2026-09-28T21:59:21.746987+00:00"
+    },
+    "8148731": {
+      "title": "Sales Development Representative, Japan",
+      "first_seen": "2026-09-28T21:59:21.746989+00:00"
+    },
+    "8123400": {
+      "title": "Sales Development Representative (Mandarin-speaking)",
+      "first_seen": "2026-09-28T21:59:21.746992+00:00"
+    },
+    "7368924": {
+      "title": "Sales Manager, Account Executives - Startups (Grower)",
+      "first_seen": "2026-09-28T21:59:21.746994+00:00"
+    },
+    "8191722": {
+      "title": "Sales Manager, Commercial (Grower)",
+      "first_seen": "2026-09-28T21:59:21.746998+00:00"
+    },
+    "8191710": {
+      "title": "Sales Manager, Commercial Grower (Healthcare)",
+      "first_seen": "2026-09-28T21:59:21.747000+00:00"
+    },
+    "8191716": {
+      "title": "Sales Manager, Commercial (Hunter)",
+      "first_seen": "2026-09-28T21:59:21.747002+00:00"
+    },
+    "8174158": {
+      "title": "Sales Manager, Enterprise (AUNZ)",
+      "first_seen": "2026-09-28T21:59:21.747004+00:00"
+    },
+    "8176724": {
+      "title": "Sales Manager, Enterprise CEE",
+      "first_seen": "2026-09-28T21:59:21.747006+00:00"
+    },
+    "8176726": {
+      "title": "Sales Manager, Enterprise, DACH",
+      "first_seen": "2026-09-28T21:59:21.747008+00:00"
+    },
+    "8176737": {
+      "title": "Sales Manager, Enterprise (Grower)",
+      "first_seen": "2026-09-28T21:59:21.747010+00:00"
+    },
+    "8191714": {
+      "title": "Sales Manager, Enterprise - Growth",
+      "first_seen": "2026-09-28T21:59:21.747012+00:00"
+    },
+    "8191718": {
+      "title": "Sales Manager, Enterprise - Hunter",
+      "first_seen": "2026-09-28T21:59:21.747014+00:00"
+    },
+    "8191704": {
+      "title": "Sales Manager, Enterprise - LATAM",
+      "first_seen": "2026-09-28T21:59:21.747015+00:00"
+    },
+    "8155376": {
+      "title": "Sales Manager, Enterprise Platforms, Grower (Tier 1)",
+      "first_seen": "2026-09-28T21:59:21.747017+00:00"
+    },
+    "8155378": {
+      "title": "Sales Manager, Enterprise Platforms, Hunter Team",
+      "first_seen": "2026-09-28T21:59:21.747019+00:00"
+    },
+    "8125729": {
+      "title": "Sales Manager, Funded Startups",
+      "first_seen": "2026-09-28T21:59:21.747021+00:00"
+    },
+    "8174150": {
+      "title": "Sales Manager (Greater China)",
+      "first_seen": "2026-09-28T21:59:21.747023+00:00"
+    },
+    "8191720": {
+      "title": "Sales Manager, Key Accounts - Enterprise",
+      "first_seen": "2026-09-28T21:59:21.747025+00:00"
+    },
+    "8181036": {
+      "title": "Sales Manager, Product- Fraud & Risk",
+      "first_seen": "2026-09-28T21:59:21.747028+00:00"
+    },
+    "8070701": {
+      "title": "Sales Manager, Product - Issuing & Treasury",
+      "first_seen": "2026-09-28T21:59:21.747030+00:00"
+    },
+    "8176728": {
+      "title": "Sales Manager, SMB",
+      "first_seen": "2026-09-28T21:59:21.747032+00:00"
+    },
+    "8176730": {
+      "title": "Sales Manager, SMB (German,Spanish or Italian Speaker)",
+      "first_seen": "2026-09-28T21:59:21.747034+00:00"
+    },
+    "8112959": {
+      "title": "Sales Manager, SMB (Hunter)",
+      "first_seen": "2026-09-28T21:59:21.747036+00:00"
+    },
+    "8141677": {
+      "title": "Sales Manager, SoEU, SMB",
+      "first_seen": "2026-09-28T21:59:21.747038+00:00"
+    },
+    "8191706": {
+      "title": "Sales Manager, Startups - Hunter ",
+      "first_seen": "2026-09-28T21:59:21.747040+00:00"
+    },
+    "8190052": {
+      "title": "Sales Manager, Velocity (Canada)",
+      "first_seen": "2026-09-28T21:59:21.747042+00:00"
+    },
+    "8184893": {
+      "title": "Sales Program Manager, APAC",
+      "first_seen": "2026-09-28T21:59:21.747044+00:00"
+    },
+    "8212667": {
+      "title": "Sales Strategy and Operations, Mergers and Acquisitions",
+      "first_seen": "2026-09-28T21:59:21.747046+00:00"
+    },
+    "8164674": {
+      "title": "Sales Strategy & Operations Analyst ",
+      "first_seen": "2026-09-28T21:59:21.747048+00:00"
+    },
+    "8106775": {
+      "title": "Sales Strategy & Operations Business Partner",
+      "first_seen": "2026-09-28T21:59:21.747050+00:00"
+    },
+    "8089882": {
+      "title": "Sales Strategy & Operations Business Partner",
+      "first_seen": "2026-09-28T21:59:21.747054+00:00"
+    },
+    "7944515": {
+      "title": "Sales Strategy & Operations Business Partner",
+      "first_seen": "2026-09-28T21:59:21.747056+00:00"
+    },
+    "8017084": {
+      "title": "Sanctions, Operations Associate(CDMX)",
+      "first_seen": "2026-09-28T21:59:21.747060+00:00"
+    },
+    "8175627": {
+      "title": "Scale Partner Marketing Lead",
+      "first_seen": "2026-09-28T21:59:21.747062+00:00"
+    },
+    "8174138": {
+      "title": "SDC Business Recruiter (Fixed Term Contract)",
+      "first_seen": "2026-09-28T21:59:21.747064+00:00"
+    },
+    "8056309": {
+      "title": "SDC Manager, GTM Accelerate",
+      "first_seen": "2026-09-28T21:59:21.747068+00:00"
+    },
+    "8174965": {
+      "title": "Security Engineer ",
+      "first_seen": "2026-09-28T21:59:21.747070+00:00"
+    },
+    "8174984": {
+      "title": "Security Engineer, ACE",
+      "first_seen": "2026-09-28T21:59:21.747072+00:00"
+    },
+    "7776179": {
+      "title": "Security Engineer, Bridge",
+      "first_seen": "2026-09-28T21:59:21.747074+00:00"
+    },
+    "8073092": {
+      "title": "Security Engineer, Privy",
+      "first_seen": "2026-09-28T21:59:21.747076+00:00"
+    },
+    "7820898": {
+      "title": "Security Engineer - Proactive Threat",
+      "first_seen": "2026-09-28T21:59:21.747078+00:00"
+    },
+    "8172497": {
+      "title": "Security Incident Response Manager, Abuse Operations",
+      "first_seen": "2026-09-28T21:59:21.747080+00:00"
+    },
+    "8175820": {
+      "title": "Seller Systems Team Lead (Night Shift)",
+      "first_seen": "2026-09-28T21:59:21.747082+00:00"
+    },
+    "8131129": {
+      "title": "Senior Brand Designer, Experiential",
+      "first_seen": "2026-09-28T21:59:21.747084+00:00"
+    },
+    "8172672": {
+      "title": "Senior Brand Designer, Link",
+      "first_seen": "2026-09-28T21:59:21.747086+00:00"
+    },
+    "7793636": {
+      "title": "Senior Designer, Brand Advertising",
+      "first_seen": "2026-09-28T21:59:21.747088+00:00"
+    },
+    "8167556": {
+      "title": "Senior Leadership Recruiter ",
+      "first_seen": "2026-09-28T21:59:21.747090+00:00"
+    },
+    "8170920": {
+      "title": "Senior Mechanical and Industrial Design Engineer",
+      "first_seen": "2026-09-28T21:59:21.747092+00:00"
+    },
+    "7812856": {
+      "title": "Senior Product Manager, Enterprise",
+      "first_seen": "2026-09-28T21:59:21.747094+00:00"
+    },
+    "8176733": {
+      "title": "Senior Sales Manager, Startups New Business, EMEA",
+      "first_seen": "2026-09-28T21:59:21.747096+00:00"
+    },
+    "8175099": {
+      "title": "Senior Software Engineer",
+      "first_seen": "2026-09-28T21:59:21.747098+00:00"
+    },
+    "8230952": {
+      "title": "Senior Software Engineer, Backend",
+      "first_seen": "2026-09-28T21:59:21.747100+00:00"
+    },
+    "8177860": {
+      "title": "Senior Software Engineer, Docs Product",
+      "first_seen": "2026-09-28T21:59:21.747102+00:00"
+    },
+    "8194328": {
+      "title": "Senior Software Engineer, Product Velocity",
+      "first_seen": "2026-09-28T21:59:21.747104+00:00"
+    },
+    "8128499": {
+      "title": "Senior Staff Product Designer, Data & AI",
+      "first_seen": "2026-09-28T21:59:21.747106+00:00"
+    },
+    "8031782": {
+      "title": "Senior Staff Product Designer, Risk",
+      "first_seen": "2026-09-28T21:59:21.747108+00:00"
+    },
+    "7746721": {
+      "title": "Senior Staff Software Engineer, Stripe Dashboard",
+      "first_seen": "2026-09-28T21:59:21.747112+00:00"
+    },
+    "8120501": {
+      "title": "Senior Workday Analyst, Payroll ",
+      "first_seen": "2026-09-28T21:59:21.747114+00:00"
+    },
+    "8099216": {
+      "title": "Services Consultant - Scaled Professional Services (SEA/GCN)",
+      "first_seen": "2026-09-28T21:59:21.747116+00:00"
+    },
+    "7373865": {
+      "title": "Short-form Video & Social, Community Comms",
+      "first_seen": "2026-09-28T21:59:21.747118+00:00"
+    },
+    "7962437": {
+      "title": "Social Media, Customer Support Associate",
+      "first_seen": "2026-09-28T21:59:21.747120+00:00"
+    },
+    "7867328": {
+      "title": "Social Media, Customer Support Associate (Includes Weekend Rotations)",
+      "first_seen": "2026-09-28T21:59:21.747122+00:00"
+    },
+    "8174105": {
+      "title": "Software Engineer",
+      "first_seen": "2026-09-28T21:59:21.747126+00:00"
+    },
+    "8137972": {
+      "title": "Software Engineer",
+      "first_seen": "2026-09-28T21:59:21.747128+00:00"
+    },
+    "8198280": {
+      "title": "Software Engineer, Backend",
+      "first_seen": "2026-09-28T21:59:21.747130+00:00"
+    },
+    "8127182": {
+      "title": "Software Engineer, Billing Platform",
+      "first_seen": "2026-09-28T21:59:21.747132+00:00"
+    },
+    "7277110": {
+      "title": "Software Engineer, Bridge",
+      "first_seen": "2026-09-28T21:59:21.747134+00:00"
+    },
+    "8078337": {
+      "title": "Software Engineer, Connect Tax Reporting",
+      "first_seen": "2026-09-28T21:59:21.747136+00:00"
+    },
+    "7975725": {
+      "title": "Software Engineer, Core Infrastructure",
+      "first_seen": "2026-09-28T21:59:21.747138+00:00"
+    },
+    "7230670": {
+      "title": "Software Engineer, Data Orchestration",
+      "first_seen": "2026-09-28T21:59:21.747140+00:00"
+    },
+    "8212517": {
+      "title": "Software Engineer, Early Career \u2014 Immediate Start",
+      "first_seen": "2026-09-28T21:59:21.747142+00:00"
+    },
+    "8212508": {
+      "title": "Software Engineer, Early Career \u2014 Immediate Start",
+      "first_seen": "2026-09-28T21:59:21.747145+00:00"
+    },
+    "8197135": {
+      "title": "Software Engineer, High Availability and Disaster Recovery",
+      "first_seen": "2026-09-28T21:59:21.747147+00:00"
+    },
+    "8130867": {
+      "title": "Software Engineer, Intern",
+      "first_seen": "2026-09-28T21:59:21.747149+00:00"
+    },
+    "8031833": {
+      "title": "Software Engineer, Intern",
+      "first_seen": "2026-09-28T21:59:21.747151+00:00"
+    },
+    "8130883": {
+      "title": "Software Engineer, Intern",
+      "first_seen": "2026-09-28T21:59:21.747153+00:00"
+    },
+    "8130807": {
+      "title": "Software Engineer, Intern ",
+      "first_seen": "2026-09-28T21:59:21.747155+00:00"
+    },
+    "7543868": {
+      "title": "Software Engineer, Internal Systems",
+      "first_seen": "2026-09-28T21:59:21.747157+00:00"
+    },
+    "8130805": {
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "first_seen": "2026-09-28T21:59:21.747161+00:00"
+    },
+    "8128745": {
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "first_seen": "2026-09-28T21:59:21.747163+00:00"
+    },
+    "8097801": {
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "first_seen": "2026-09-28T21:59:21.747164+00:00"
+    },
+    "7208537": {
+      "title": "Software Engineer, Money Movement ",
+      "first_seen": "2026-09-28T21:59:21.747166+00:00"
+    },
+    "8157838": {
+      "title": "Software Engineer, New Grad",
+      "first_seen": "2026-09-28T21:59:21.747168+00:00"
+    },
+    "8130881": {
+      "title": "Software Engineer, New Grad",
+      "first_seen": "2026-09-28T21:59:21.747170+00:00"
+    },
+    "8130930": {
+      "title": "Software Engineer, New Grad",
+      "first_seen": "2026-09-28T21:59:21.747172+00:00"
+    },
+    "8130922": {
+      "title": "Software Engineer, New Grad",
+      "first_seen": "2026-09-28T21:59:21.747174+00:00"
+    },
+    "8128744": {
+      "title": "Software Engineer, New Grad",
+      "first_seen": "2026-09-28T21:59:21.747178+00:00"
+    },
+    "8160776": {
+      "title": "Software Engineer, New Grad",
+      "first_seen": "2026-09-28T21:59:21.747179+00:00"
+    },
+    "8130927": {
+      "title": "Software Engineer, New Grad - Frontend",
+      "first_seen": "2026-09-28T21:59:21.747181+00:00"
+    },
+    "8197891": {
+      "title": "Software Engineer, Online Database Infrastructure",
+      "first_seen": "2026-09-28T21:59:21.747183+00:00"
+    },
+    "8198207": {
+      "title": "Software Engineer, Payins Card Networks",
+      "first_seen": "2026-09-28T21:59:21.747185+00:00"
+    },
+    "7529787": {
+      "title": "Software Engineer, Payments",
+      "first_seen": "2026-09-28T21:59:21.747187+00:00"
+    },
+    "6717520": {
+      "title": "Software Engineer, Payments and Risk",
+      "first_seen": "2026-09-28T21:59:21.747189+00:00"
+    },
+    "7761694": {
+      "title": "Software Engineer, Product Security Data Platforms",
+      "first_seen": "2026-09-28T21:59:21.747193+00:00"
+    },
+    "7396679": {
+      "title": "Software Engineer, Secrets Infrastructure",
+      "first_seen": "2026-09-28T21:59:21.747195+00:00"
+    },
+    "7507904": {
+      "title": "Software Engineer - Smart Contract, Bridge",
+      "first_seen": "2026-09-28T21:59:21.747197+00:00"
+    },
+    "8209970": {
+      "title": "Software Engineer, Stripe Data Pipeline",
+      "first_seen": "2026-09-28T21:59:21.747199+00:00"
+    },
+    "8076626": {
+      "title": "Software Engineer, Stripe Tax ",
+      "first_seen": "2026-09-28T21:59:21.747201+00:00"
+    },
+    "8089353": {
+      "title": "Software Engineer, Vulnerability Management",
+      "first_seen": "2026-09-28T21:59:21.747203+00:00"
+    },
+    "8153331": {
+      "title": "Software Quality Assurance Engineer",
+      "first_seen": "2026-09-28T21:59:21.747205+00:00"
+    },
+    "8144264": {
+      "title": "Solutions Architect, Commercial, UK/I",
+      "first_seen": "2026-09-28T21:59:21.747207+00:00"
+    },
+    "8092652": {
+      "title": "Solutions Architect, Enterprise (French Speaking)",
+      "first_seen": "2026-09-28T21:59:21.747209+00:00"
+    },
+    "8175663": {
+      "title": "Solutions Architect, Enterprise Hunter (Presales)",
+      "first_seen": "2026-09-28T21:59:21.747211+00:00"
+    },
+    "8144185": {
+      "title": "Solutions Architect, Enterprise (Presales)",
+      "first_seen": "2026-09-28T21:59:21.747213+00:00"
+    },
+    "7882492": {
+      "title": "Solutions Architect, Enterprise, UK ",
+      "first_seen": "2026-09-28T21:59:21.747215+00:00"
+    },
+    "8144223": {
+      "title": "Solutions Architect (Greater China)",
+      "first_seen": "2026-09-28T21:59:21.747217+00:00"
+    },
+    "8042913": {
+      "title": "Solutions Architect (India)",
+      "first_seen": "2026-09-28T21:59:21.747219+00:00"
+    },
+    "8144233": {
+      "title": "Solutions Architect, (Italian fluency) ",
+      "first_seen": "2026-09-28T21:59:21.747221+00:00"
+    },
+    "8168813": {
+      "title": "Solutions Architect, Metronome (AI Native)",
+      "first_seen": "2026-09-28T21:59:21.747223+00:00"
+    },
+    "8179419": {
+      "title": "Solutions Architect, Metronome (Startups)",
+      "first_seen": "2026-09-28T21:59:21.747225+00:00"
+    },
+    "8168151": {
+      "title": "Solutions Consultant, Enterprise (Presales)",
+      "first_seen": "2026-09-28T21:59:21.747227+00:00"
+    },
+    "7120766": {
+      "title": "Specialist Solutions Architect, Crypto & Stablecoins",
+      "first_seen": "2026-09-28T21:59:21.747230+00:00"
+    },
+    "8144262": {
+      "title": "Specialist Solutions Architect, Data",
+      "first_seen": "2026-09-28T21:59:21.747232+00:00"
+    },
+    "8119967": {
+      "title": "Specialist Solutions Architect, Payments",
+      "first_seen": "2026-09-28T21:59:21.747234+00:00"
+    },
+    "8119970": {
+      "title": "Specialist Solutions Architect, Payments ",
+      "first_seen": "2026-09-28T21:59:21.747238+00:00"
+    },
+    "7365914": {
+      "title": "Specialist Solutions Architect, Radar (Fraud/Risk)",
+      "first_seen": "2026-09-28T21:59:21.747240+00:00"
+    },
+    "8090244": {
+      "title": "Specialist Solutions Architect, Tax",
+      "first_seen": "2026-09-28T21:59:21.747242+00:00"
+    },
+    "7716032": {
+      "title": "Staff Backend Engineer - API Platform",
+      "first_seen": "2026-09-28T21:59:21.747249+00:00"
+    },
+    "8089815": {
+      "title": "Staff Backend Engineer - CI Services  ",
+      "first_seen": "2026-09-28T21:59:21.747251+00:00"
+    },
+    "8035723": {
+      "title": "Staff Backend Engineer, Datalake Platform",
+      "first_seen": "2026-09-28T21:59:21.747253+00:00"
+    },
+    "7921649": {
+      "title": "Staff Data Analyst",
+      "first_seen": "2026-09-28T21:59:21.747255+00:00"
+    },
+    "8044839": {
+      "title": "Staff Data Scientist, Security",
+      "first_seen": "2026-09-28T21:59:21.747257+00:00"
+    },
+    "8070949": {
+      "title": "Staff Engineer, Core Infrastructure",
+      "first_seen": "2026-09-28T21:59:21.747262+00:00"
+    },
+    "8185014": {
+      "title": "Staff Engineer, Payments",
+      "first_seen": "2026-09-28T21:59:21.747264+00:00"
+    },
+    "8162185": {
+      "title": "Staff Engineer, Support Experiences",
+      "first_seen": "2026-09-28T21:59:21.747266+00:00"
+    },
+    "8113221": {
+      "title": "Staff Fullstack Engineer, User Auth Experience",
+      "first_seen": "2026-09-28T21:59:21.747268+00:00"
+    },
+    "8148653": {
+      "title": "Staff Machine Learning Engineer, Financial Connections",
+      "first_seen": "2026-09-28T21:59:21.747270+00:00"
+    },
+    "7202630": {
+      "title": "Staff Product Designer, Link",
+      "first_seen": "2026-09-28T21:59:21.747272+00:00"
+    },
+    "8226893": {
+      "title": "Staff Product Manager, Agentic Commerce",
+      "first_seen": "2026-09-28T21:59:21.747274+00:00"
+    },
+    "7655023": {
+      "title": "Staff Product Manager, AI",
+      "first_seen": "2026-09-28T21:59:21.747276+00:00"
+    },
+    "7983725": {
+      "title": "Staff Product Manager, Billing ",
+      "first_seen": "2026-09-28T21:59:21.747278+00:00"
+    },
+    "8065034": {
+      "title": "Staff Product Manager, Connect",
+      "first_seen": "2026-09-28T21:59:21.747280+00:00"
+    },
+    "7913702": {
+      "title": "Staff Product Manager, Dashboard",
+      "first_seen": "2026-09-28T21:59:21.747282+00:00"
+    },
+    "8043083": {
+      "title": "Staff Product Manager, Issuing",
+      "first_seen": "2026-09-28T21:59:21.747284+00:00"
+    },
+    "8142649": {
+      "title": "Staff Product Manager, Local Payment Methods Growth",
+      "first_seen": "2026-09-28T21:59:21.747286+00:00"
+    },
+    "7737526": {
+      "title": "Staff Product Manager, Local Payment Methods Growth",
+      "first_seen": "2026-09-28T21:59:21.747288+00:00"
+    },
+    "7517535": {
+      "title": "Staff Product Manager, ML Foundations and GenAI",
+      "first_seen": "2026-09-28T21:59:21.747290+00:00"
+    },
+    "7819059": {
+      "title": "Staff Product Manager, Payments",
+      "first_seen": "2026-09-28T21:59:21.747292+00:00"
+    },
+    "8209996": {
+      "title": "Staff Product Manager, Payments Intelligence",
+      "first_seen": "2026-09-28T21:59:21.747294+00:00"
+    },
+    "7913698": {
+      "title": "Staff Product Manager, Sail Core",
+      "first_seen": "2026-09-28T21:59:21.747296+00:00"
+    },
+    "8124304": {
+      "title": "Staff Product Manager, Stripe Tax",
+      "first_seen": "2026-09-28T21:59:21.747298+00:00"
+    },
+    "8127894": {
+      "title": "Staff Program Manager, Event Design",
+      "first_seen": "2026-09-28T21:59:21.747300+00:00"
+    },
+    "8211180": {
+      "title": "Staff Security Engineer, Abuse Control",
+      "first_seen": "2026-09-28T21:59:21.747304+00:00"
+    },
+    "8174963": {
+      "title": "Staff Security Engineer, Abuse Control",
+      "first_seen": "2026-09-28T21:59:21.747306+00:00"
+    },
+    "8055701": {
+      "title": "Staff Software Engineer, API Platform",
+      "first_seen": "2026-09-28T21:59:21.747308+00:00"
+    },
+    "8076151": {
+      "title": "Staff Software Engineer, Dashboard Product",
+      "first_seen": "2026-09-28T21:59:21.747310+00:00"
+    },
+    "8038771": {
+      "title": "Staff Software Engineer, Deployment Platform",
+      "first_seen": "2026-09-28T21:59:21.747312+00:00"
+    },
+    "8120494": {
+      "title": "Staff Software Engineer, Financial Crimes",
+      "first_seen": "2026-09-28T21:59:21.747314+00:00"
+    },
+    "7369269": {
+      "title": "Staff Software Engineer, Issuing ",
+      "first_seen": "2026-09-28T21:59:21.747316+00:00"
+    },
+    "8082847": {
+      "title": "Staff Software Engineer, Link",
+      "first_seen": "2026-09-28T21:59:21.747318+00:00"
+    },
+    "8142952": {
+      "title": "Staff Software Engineer, Link - Bank Connections",
+      "first_seen": "2026-09-28T21:59:21.747320+00:00"
+    },
+    "7939868": {
+      "title": "Staff Software Engineer, Machine Learning Platform",
+      "first_seen": "2026-09-28T21:59:21.747322+00:00"
+    },
+    "7712852": {
+      "title": "Staff Software Engineer, Machine Learning Platform",
+      "first_seen": "2026-09-28T21:59:21.747324+00:00"
+    },
+    "8177513": {
+      "title": "Staff Software Engineer, Money Movement Platform",
+      "first_seen": "2026-09-28T21:59:21.747326+00:00"
+    },
+    "7986004": {
+      "title": "Staff Software Engineer, Payments Intelligence",
+      "first_seen": "2026-09-28T21:59:21.747332+00:00"
+    },
+    "8172164": {
+      "title": "Staff Software Engineer, Payment Systems",
+      "first_seen": "2026-09-28T21:59:21.747334+00:00"
+    },
+    "8112043": {
+      "title": "Staff Software Engineer, Risk Data Engineering",
+      "first_seen": "2026-09-28T21:59:21.747336+00:00"
+    },
+    "8090141": {
+      "title": "Staff Software Engineer, Service Infrastructure",
+      "first_seen": "2026-09-28T21:59:21.747338+00:00"
+    },
+    "8146271": {
+      "title": "Staff Software Engineer, Startup Products",
+      "first_seen": "2026-09-28T21:59:21.747340+00:00"
+    },
+    "8171539": {
+      "title": "Staff Software Engineer, Storage Abstractions",
+      "first_seen": "2026-09-28T21:59:21.747342+00:00"
+    },
+    "8181026": {
+      "title": "Startup Partnerships - Y Combinator ",
+      "first_seen": "2026-09-28T21:59:21.747344+00:00"
+    },
+    "8210226": {
+      "title": "Startups Sales Manager, Platform Partnerships",
+      "first_seen": "2026-09-28T21:59:21.747346+00:00"
+    },
+    "8194397": {
+      "title": "Strategic Account Executive, AI Sales",
+      "first_seen": "2026-09-28T21:59:21.747348+00:00"
+    },
+    "8129954": {
+      "title": "Strategic Account Executive, Platforms",
+      "first_seen": "2026-09-28T21:59:21.747352+00:00"
+    },
+    "8212325": {
+      "title": "Strategic Accounts Sales Leader, AI GTM",
+      "first_seen": "2026-09-28T21:59:21.747354+00:00"
+    },
+    "8155580": {
+      "title": "Strategic Business Performance, Central Strategy & Operations",
+      "first_seen": "2026-09-28T21:59:21.747356+00:00"
+    },
+    "8168554": {
+      "title": "Strategic Capacity Planning Specialist",
+      "first_seen": "2026-09-28T21:59:21.747358+00:00"
+    },
+    "8165853": {
+      "title": "Strategic Payment Advisors Lead - APAC",
+      "first_seen": "2026-09-28T21:59:21.747360+00:00"
+    },
+    "8072213": {
+      "title": "Strategic Sourcing Manager, Tech & Product",
+      "first_seen": "2026-09-28T21:59:21.747362+00:00"
+    },
+    "8044391": {
+      "title": "Strategy and Operations Lead, Deal Pricing",
+      "first_seen": "2026-09-28T21:59:21.747365+00:00"
+    },
+    "8224620": {
+      "title": "Strategy & Operations Business Partner, Customer Success",
+      "first_seen": "2026-09-28T21:59:21.747367+00:00"
+    },
+    "8171928": {
+      "title": "Strategy & Operations Business Partner, Global Payments Performance",
+      "first_seen": "2026-09-28T21:59:21.747371+00:00"
+    },
+    "8171095": {
+      "title": "Strategy & Operations, Infrastructure",
+      "first_seen": "2026-09-28T21:59:21.747373+00:00"
+    },
+    "8199596": {
+      "title": "Strategy & Operations, Risk",
+      "first_seen": "2026-09-28T21:59:21.747375+00:00"
+    },
+    "8053933": {
+      "title": "Strategy & Ops, Enterprise",
+      "first_seen": "2026-09-28T21:59:21.747378+00:00"
+    },
+    "8139711": {
+      "title": "Strategy & Transformation Advisor (Enterprise Commerce Architecture)",
+      "first_seen": "2026-09-28T21:59:21.747380+00:00"
+    },
+    "8162819": {
+      "title": "Support Operations, Privy",
+      "first_seen": "2026-09-28T21:59:21.747382+00:00"
+    },
+    "8044158": {
+      "title": "Technical Account Manager",
+      "first_seen": "2026-09-28T21:59:21.747384+00:00"
+    },
+    "8023524": {
+      "title": "Technical Account Manager",
+      "first_seen": "2026-09-28T21:59:21.747386+00:00"
+    },
+    "7918088": {
+      "title": "Technical Account Manager, AI User Segment",
+      "first_seen": "2026-09-28T21:59:21.747388+00:00"
+    },
+    "8142304": {
+      "title": "Technical Account Manager, Billing",
+      "first_seen": "2026-09-28T21:59:21.747390+00:00"
+    },
+    "7955056": {
+      "title": "Technical Account Manager - GCN",
+      "first_seen": "2026-09-28T21:59:21.747392+00:00"
+    },
+    "8160699": {
+      "title": "Technical Account Manager, Platform",
+      "first_seen": "2026-09-28T21:59:21.747396+00:00"
+    },
+    "8171297": {
+      "title": "Technical Program Manager",
+      "first_seen": "2026-09-28T21:59:21.747398+00:00"
+    },
+    "7778643": {
+      "title": "Technical Program Manager,  Extensibility ",
+      "first_seen": "2026-09-28T21:59:21.747400+00:00"
+    },
+    "8114397": {
+      "title": "Technical Program Manager, Extensibility ",
+      "first_seen": "2026-09-28T21:59:21.747402+00:00"
+    },
+    "8126047": {
+      "title": "Technical Program Manager, Infrastructure",
+      "first_seen": "2026-09-28T21:59:21.747404+00:00"
+    },
+    "8014533": {
+      "title": "Technical Program Manager, Link",
+      "first_seen": "2026-09-28T21:59:21.747405+00:00"
+    },
+    "8142856": {
+      "title": "Technical Recruiter (Fixed Term Contract)",
+      "first_seen": "2026-09-28T21:59:21.747407+00:00"
+    },
+    "8154525": {
+      "title": "Technical Recruiter (Fixed Term Contract)",
+      "first_seen": "2026-09-28T21:59:21.747410+00:00"
+    },
+    "7377101": {
+      "title": "Technical Solutions Engineer",
+      "first_seen": "2026-09-28T21:59:21.747411+00:00"
+    },
+    "8079858": {
+      "title": "Technical Solutions Engineering Manager",
+      "first_seen": "2026-09-28T21:59:21.747413+00:00"
+    },
+    "7737248": {
+      "title": "Technical Support Engineer (EMEA), Metronome",
+      "first_seen": "2026-09-28T21:59:21.747416+00:00"
+    },
+    "7860377": {
+      "title": "Technical Support Engineer, Metronome",
+      "first_seen": "2026-09-28T21:59:21.747425+00:00"
+    },
+    "8171220": {
+      "title": "Technical Support Engineer, Metronome",
+      "first_seen": "2026-09-28T21:59:21.747427+00:00"
+    },
+    "7718947": {
+      "title": "Tech Operations Associate, New Grad (Mexico)",
+      "first_seen": "2026-09-28T21:59:21.747429+00:00"
+    },
+    "8045862": {
+      "title": "Tech Ops Team Lead",
+      "first_seen": "2026-09-28T21:59:21.747432+00:00"
+    },
+    "8076966": {
+      "title": "Thailand Compliance Officer & Money Laundering Reporting Officer",
+      "first_seen": "2026-09-28T21:59:21.747435+00:00"
+    },
+    "8189018": {
+      "title": "Third Party Risk Analyst",
+      "first_seen": "2026-09-28T21:59:21.747437+00:00"
+    },
+    "8172111": {
+      "title": "Training Program Manager",
+      "first_seen": "2026-09-28T21:59:21.747439+00:00"
+    },
+    "8096121": {
+      "title": "UK Public Sector Lead",
+      "first_seen": "2026-09-28T21:59:21.747441+00:00"
+    },
+    "8159355": {
+      "title": "University Recruiter",
+      "first_seen": "2026-09-28T21:59:21.747443+00:00"
+    },
+    "8226211": {
+      "title": "University Recruiter",
+      "first_seen": "2026-09-28T21:59:21.747445+00:00"
+    },
+    "8128011": {
+      "title": "University Recruiter",
+      "first_seen": "2026-09-28T21:59:21.747447+00:00"
+    },
+    "8094669": {
+      "title": "University Recruiting Manager",
+      "first_seen": "2026-09-28T21:59:21.747449+00:00"
+    },
+    "8180318": {
+      "title": "User Escalation Specialist ",
+      "first_seen": "2026-09-28T21:59:21.747451+00:00"
+    },
+    "8230758": {
+      "title": "User Risk Strategist",
+      "first_seen": "2026-09-28T21:59:21.747454+00:00"
+    },
+    "8165259": {
+      "title": "UX Research Manager, Payments",
+      "first_seen": "2026-09-28T21:59:21.747456+00:00"
+    },
+    "8168793": {
+      "title": "Voice Support Operations Associate ",
+      "first_seen": "2026-09-28T21:59:21.747458+00:00"
+    },
+    "8220938": {
+      "title": "Workday Analyst",
+      "first_seen": "2026-09-28T21:59:21.747460+00:00"
+    },
+    "8092411": {
+      "title": "Workplace Experience Manager",
+      "first_seen": "2026-09-28T21:59:21.747462+00:00"
+    },
+    "8120185": {
+      "title": "Workplace Operations Manager - Dublin",
+      "first_seen": "2026-09-28T21:59:21.747466+00:00"
+    },
+    "8209637": {
+      "title": "Workplace Project Manager",
+      "first_seen": "2026-09-28T21:59:21.747468+00:00"
+    }
+  },
+  "airbnb": {
+    "8232207": {
+      "title": "Accountant",
+      "first_seen": "2026-09-28T21:59:21.852383+00:00"
+    },
+    "8184174": {
+      "title": "Account Manager ",
+      "first_seen": "2026-09-28T21:59:21.852397+00:00"
+    },
+    "7789554": {
+      "title": "Associate Legal Counsel, Japan",
+      "first_seen": "2026-09-28T21:59:21.852401+00:00"
+    },
+    "8231416": {
+      "title": "Associate Principal, Procurement Innovation Supplier Programs",
+      "first_seen": "2026-09-28T21:59:21.852403+00:00"
+    },
+    "7995153": {
+      "title": "Business Development Manager",
+      "first_seen": "2026-09-28T21:59:21.852406+00:00"
+    },
+    "7999656": {
+      "title": "Business Operations and Growth Lead",
+      "first_seen": "2026-09-28T21:59:21.852408+00:00"
+    },
+    "8214444": {
+      "title": "Business Systems Engineer, Tech Foundations",
+      "first_seen": "2026-09-28T21:59:21.852412+00:00"
+    },
+    "7982715": {
+      "title": "Community Engagement Lead, Spain and Portugal",
+      "first_seen": "2026-09-28T21:59:21.852415+00:00"
+    },
+    "7839229": {
+      "title": "Community Support Forecasting and Demand Planning Analyst",
+      "first_seen": "2026-09-28T21:59:21.852417+00:00"
+    },
+    "8153094": {
+      "title": "Complex Claims Manager",
+      "first_seen": "2026-09-28T21:59:21.852420+00:00"
+    },
+    "8152131": {
+      "title": "Complex Claims Manager",
+      "first_seen": "2026-09-28T21:59:21.852422+00:00"
+    },
+    "8172735": {
+      "title": "Customer Service Partner Operations Manager, Mandarin Speaking (Manila Based) ",
+      "first_seen": "2026-09-28T21:59:21.852424+00:00"
+    },
+    "8172732": {
+      "title": "Customer Service Partner Operations Manager, Mandarin Speaking (Seoul Based) ",
+      "first_seen": "2026-09-28T21:59:21.852555+00:00"
+    },
+    "8172706": {
+      "title": "Customer Service Partner Operations Manager, Mandarin Speaking (Singapore Based) ",
+      "first_seen": "2026-09-28T21:59:21.852558+00:00"
+    },
+    "8172734": {
+      "title": "Customer Service Partner Operations Manager, Mandarin Speaking (Tokyo Based) ",
+      "first_seen": "2026-09-28T21:59:21.852560+00:00"
+    },
+    "8230709": {
+      "title": "Disaster Response Coordinator",
+      "first_seen": "2026-09-28T21:59:21.852563+00:00"
+    },
+    "8230593": {
+      "title": "Disaster Response Coordinator",
+      "first_seen": "2026-09-28T21:59:21.852565+00:00"
+    },
+    "8154749": {
+      "title": "Early Career Software Engineer, Quality Engineering",
+      "first_seen": "2026-09-28T21:59:21.852567+00:00"
+    },
+    "7532824": {
+      "title": "Engineering Manager, Guest & Host",
+      "first_seen": "2026-09-28T21:59:21.852569+00:00"
+    },
+    "8066835": {
+      "title": "Enterprise Account Operations Associate",
+      "first_seen": "2026-09-28T21:59:21.852571+00:00"
+    },
+    "8152132": {
+      "title": "Gestionnaire des r\u00e9clamations complexes",
+      "first_seen": "2026-09-28T21:59:21.852574+00:00"
+    },
+    "8164421": {
+      "title": "Gestionnaire, Qualit\u00e9, AirCover ",
+      "first_seen": "2026-09-28T21:59:21.852578+00:00"
+    },
+    "7590542": {
+      "title": "Growth Marketing Lead, Japan ",
+      "first_seen": "2026-09-28T21:59:21.852581+00:00"
+    },
+    "8201750": {
+      "title": "Host Communications Strategy Lead",
+      "first_seen": "2026-09-28T21:59:21.852583+00:00"
+    },
+    "8084251": {
+      "title": "HR Generalist / HR Business Partner",
+      "first_seen": "2026-09-28T21:59:21.852585+00:00"
+    },
+    "8207084": {
+      "title": "Lead Advanced Analyst, Integrated Marketing",
+      "first_seen": "2026-09-28T21:59:21.852587+00:00"
+    },
+    "8125981": {
+      "title": "Lead, Advanced Analytics, Community Support",
+      "first_seen": "2026-09-28T21:59:21.852590+00:00"
+    },
+    "7967712": {
+      "title": "Lead, Advanced Analytics, Payments",
+      "first_seen": "2026-09-28T21:59:21.852592+00:00"
+    },
+    "8080954": {
+      "title": "Lead Advanced Analytics, Product",
+      "first_seen": "2026-09-28T21:59:21.852594+00:00"
+    },
+    "8120458": {
+      "title": "Lead Localization Operations Program Manager",
+      "first_seen": "2026-09-28T21:59:21.852596+00:00"
+    },
+    "8211765": {
+      "title": "Lead Platform Manager, Tech Foundations",
+      "first_seen": "2026-09-28T21:59:21.852598+00:00"
+    },
+    "8165843": {
+      "title": "Localization Manager, Italian",
+      "first_seen": "2026-09-28T21:59:21.852601+00:00"
+    },
+    "7716341": {
+      "title": "Machine Learning Engineer, Assistance Engineering",
+      "first_seen": "2026-09-28T21:59:21.852603+00:00"
+    },
+    "8071424": {
+      "title": "Manager, Premium Support (French/English)",
+      "first_seen": "2026-09-28T21:59:21.852605+00:00"
+    },
+    "8160860": {
+      "title": "Manager, Public Policy, Southeast & Gulf",
+      "first_seen": "2026-09-28T21:59:21.852607+00:00"
+    },
+    "8114339": {
+      "title": "Manager, Quality, AirCover",
+      "first_seen": "2026-09-28T21:59:21.852609+00:00"
+    },
+    "8237432": {
+      "title": "Market Associate",
+      "first_seen": "2026-09-28T21:59:21.852611+00:00"
+    },
+    "8178505": {
+      "title": "Market Associate",
+      "first_seen": "2026-09-28T21:59:21.852613+00:00"
+    },
+    "8176559": {
+      "title": "Market Associate",
+      "first_seen": "2026-09-28T21:59:21.852615+00:00"
+    },
+    "8146630": {
+      "title": "Market Manager",
+      "first_seen": "2026-09-28T21:59:21.852617+00:00"
+    },
+    "8131310": {
+      "title": "Market Manager",
+      "first_seen": "2026-09-28T21:59:21.852619+00:00"
+    },
+    "8140993": {
+      "title": "Market Manager, Australia",
+      "first_seen": "2026-09-28T21:59:21.852621+00:00"
+    },
+    "8000413": {
+      "title": "Market Manager - Vacation Rental",
+      "first_seen": "2026-09-28T21:59:21.852623+00:00"
+    },
+    "8189374": {
+      "title": "Mobile Software Engineer, Quality Platform",
+      "first_seen": "2026-09-28T21:59:21.852628+00:00"
+    },
+    "8108673": {
+      "title": "NextStay Fellow, Tech Ops & Programs",
+      "first_seen": "2026-09-28T21:59:21.852631+00:00"
+    },
+    "8038161": {
+      "title": "Office Manager, Mexico City",
+      "first_seen": "2026-09-28T21:59:21.852633+00:00"
+    },
+    "8075714": {
+      "title": "Payments Partnerships Manager, Host Payouts",
+      "first_seen": "2026-09-28T21:59:21.852635+00:00"
+    },
+    "8236127": {
+      "title": "Policy Manager, Consults and Escalations",
+      "first_seen": "2026-09-28T21:59:21.852637+00:00"
+    },
+    "7859539": {
+      "title": "Policy Manager, Korea",
+      "first_seen": "2026-09-28T21:59:21.852639+00:00"
+    },
+    "8185136": {
+      "title": "Policy Manager, Quality",
+      "first_seen": "2026-09-28T21:59:21.852641+00:00"
+    },
+    "7955579": {
+      "title": "Principal Machine Learning Engineer- LLM Fine-tuning and Optimization ",
+      "first_seen": "2026-09-28T21:59:21.852643+00:00"
+    },
+    "8209984": {
+      "title": "Principal, Strategic Finance & Analytics, Acquisition",
+      "first_seen": "2026-09-28T21:59:21.852645+00:00"
+    },
+    "8189782": {
+      "title": "Product Manager, Community Support",
+      "first_seen": "2026-09-28T21:59:21.852647+00:00"
+    },
+    "8096359": {
+      "title": "Product Manager, Pricing",
+      "first_seen": "2026-09-28T21:59:21.852649+00:00"
+    },
+    "8081925": {
+      "title": "Product Manager, Services",
+      "first_seen": "2026-09-28T21:59:21.852651+00:00"
+    },
+    "8094412": {
+      "title": "Product Program Manager, Roadmap Planning & Program Management",
+      "first_seen": "2026-09-28T21:59:21.852653+00:00"
+    },
+    "7944540": {
+      "title": "Program Manager, Community Support",
+      "first_seen": "2026-09-28T21:59:21.852656+00:00"
+    },
+    "8028783": {
+      "title": "Programs and Business Operations Lead",
+      "first_seen": "2026-09-28T21:59:21.852658+00:00"
+    },
+    "8224084": {
+      "title": "Recruiter, Sales & G&A (12-month contract)",
+      "first_seen": "2026-09-28T21:59:21.852660+00:00"
+    },
+    "8155005": {
+      "title": "Sales Operations Lead",
+      "first_seen": "2026-09-28T21:59:21.852662+00:00"
+    },
+    "8046210": {
+      "title": "Senior Account Executive, Hotels (Milan-based)",
+      "first_seen": "2026-09-28T21:59:21.852664+00:00"
+    },
+    "8225785": {
+      "title": "Senior Analyst, Advanced Analytics",
+      "first_seen": "2026-09-28T21:59:21.852666+00:00"
+    },
+    "8224146": {
+      "title": "Senior Analyst, Frontline Performance",
+      "first_seen": "2026-09-28T21:59:21.852668+00:00"
+    },
+    "8189323": {
+      "title": "Senior Brand Strategist",
+      "first_seen": "2026-09-28T21:59:21.852670+00:00"
+    },
+    "8053132": {
+      "title": "Senior Business Solutions Engineer, BizTech(LegalTech)",
+      "first_seen": "2026-09-28T21:59:21.852673+00:00"
+    },
+    "8178467": {
+      "title": "Senior Community Growth Manager",
+      "first_seen": "2026-09-28T21:59:21.852675+00:00"
+    },
+    "8201136": {
+      "title": "Senior Compensation Partner, Technology",
+      "first_seen": "2026-09-28T21:59:21.852677+00:00"
+    },
+    "8141377": {
+      "title": "Senior Connectivity Partner Manager, Bangkok (SEA/IN)",
+      "first_seen": "2026-09-28T21:59:21.852679+00:00"
+    },
+    "8123037": {
+      "title": "Senior Data Scientist - Payments (Inference)",
+      "first_seen": "2026-09-28T21:59:21.852681+00:00"
+    },
+    "8196013": {
+      "title": "Senior Demand Strategy Lead, Experiences",
+      "first_seen": "2026-09-28T21:59:21.852683+00:00"
+    },
+    "7968034": {
+      "title": "Senior Engineering Manager, Media Foundation",
+      "first_seen": "2026-09-28T21:59:21.852686+00:00"
+    },
+    "8232474": {
+      "title": "Senior Enterprise Account Manager",
+      "first_seen": "2026-09-28T21:59:21.852697+00:00"
+    },
+    "8214375": {
+      "title": "Senior Executive IT Support Engineer, Tech Foundations",
+      "first_seen": "2026-09-28T21:59:21.852699+00:00"
+    },
+    "7380185": {
+      "title": "Senior Fullstack Engineer, Quality Engineering",
+      "first_seen": "2026-09-28T21:59:21.852701+00:00"
+    },
+    "8142636": {
+      "title": "Senior Host Development Lead, Incentives",
+      "first_seen": "2026-09-28T21:59:21.852703+00:00"
+    },
+    "7916840": {
+      "title": "Senior Key Accounts Manager",
+      "first_seen": "2026-09-28T21:59:21.852705+00:00"
+    },
+    "8014904": {
+      "title": "Senior Machine Learning Engineer, Assistance Engineering",
+      "first_seen": "2026-09-28T21:59:21.852707+00:00"
+    },
+    "7975743": {
+      "title": "Senior Machine Learning Engineer, Assistance Engineering",
+      "first_seen": "2026-09-28T21:59:21.852709+00:00"
+    },
+    "8065789": {
+      "title": "Senior Machine Learning Engineer, Query Intelligence",
+      "first_seen": "2026-09-28T21:59:21.852712+00:00"
+    },
+    "8232153": {
+      "title": "Senior Machine Learning Engineer, Trust",
+      "first_seen": "2026-09-28T21:59:21.852714+00:00"
+    },
+    "8130355": {
+      "title": "Senior Machine Learning Engineer, Trust",
+      "first_seen": "2026-09-28T21:59:21.852716+00:00"
+    },
+    "8044801": {
+      "title": "Senior Manager, Field Operations",
+      "first_seen": "2026-09-28T21:59:21.852718+00:00"
+    },
+    "8167113": {
+      "title": "Senior Manager, Intelligence & Advocacy",
+      "first_seen": "2026-09-28T21:59:21.852720+00:00"
+    },
+    "8070121": {
+      "title": "Senior Manager, Machine Learning Engineering - Communication & Connectivity",
+      "first_seen": "2026-09-28T21:59:21.852723+00:00"
+    },
+    "8175521": {
+      "title": "Senior Manager, Platform Management (Payments)",
+      "first_seen": "2026-09-28T21:59:21.852725+00:00"
+    },
+    "8114342": {
+      "title": "Senior Manager, Quality, Specialty",
+      "first_seen": "2026-09-28T21:59:21.852727+00:00"
+    },
+    "8077683": {
+      "title": "Senior Manager, Technical Program Management (Search & AI Foundations)",
+      "first_seen": "2026-09-28T21:59:21.852730+00:00"
+    },
+    "8202802": {
+      "title": "Senior Market Manager",
+      "first_seen": "2026-09-28T21:59:21.852733+00:00"
+    },
+    "7587869": {
+      "title": "Senior Market Manager, Hotels",
+      "first_seen": "2026-09-28T21:59:21.852735+00:00"
+    },
+    "8167204": {
+      "title": "Senior Market Manager, Vietnamese Speaking (Bangkok Based) ",
+      "first_seen": "2026-09-28T21:59:21.852737+00:00"
+    },
+    "8141266": {
+      "title": "Senior Market Manager, Vietnamese Speaking (Bangkok Based) ",
+      "first_seen": "2026-09-28T21:59:21.852739+00:00"
+    },
+    "7453190": {
+      "title": "Senior Mobile Software Engineer, Quality Engineering",
+      "first_seen": "2026-09-28T21:59:21.852741+00:00"
+    },
+    "8070705": {
+      "title": "Senior Platform Manager, Data Products, Finance Accounting",
+      "first_seen": "2026-09-28T21:59:21.852743+00:00"
+    },
+    "8082863": {
+      "title": "Senior Platform Manager, Payment Platform Accounts",
+      "first_seen": "2026-09-28T21:59:21.852745+00:00"
+    },
+    "8029984": {
+      "title": "Senior Platform Manager, Trust and Safety",
+      "first_seen": "2026-09-28T21:59:21.852748+00:00"
+    },
+    "8053756": {
+      "title": "Senior Principal, Competitive Intelligence",
+      "first_seen": "2026-09-28T21:59:21.852750+00:00"
+    },
+    "8186787": {
+      "title": "Senior Product Manager, Community Support Experience ",
+      "first_seen": "2026-09-28T21:59:21.852752+00:00"
+    },
+    "8094462": {
+      "title": "Senior Product Program Manager, Roadmap Planning & Program Management ",
+      "first_seen": "2026-09-28T21:59:21.852754+00:00"
+    },
+    "8163221": {
+      "title": "Senior Programs & Business Operations Lead",
+      "first_seen": "2026-09-28T21:59:21.852756+00:00"
+    },
+    "8078406": {
+      "title": "Senior Social Content Operations Manager, China",
+      "first_seen": "2026-09-28T21:59:21.852759+00:00"
+    },
+    "8201289": {
+      "title": "Senior Social Media Associate",
+      "first_seen": "2026-09-28T21:59:21.852761+00:00"
+    },
+    "8154477": {
+      "title": "Senior Software Engineer(AI/ML), Trust",
+      "first_seen": "2026-09-28T21:59:21.852763+00:00"
+    },
+    "8017556": {
+      "title": "Senior Software Engineer, Assistance Engineering",
+      "first_seen": "2026-09-28T21:59:21.852765+00:00"
+    },
+    "8024057": {
+      "title": "Senior Software Engineer, Service Tools   ",
+      "first_seen": "2026-09-28T21:59:21.852767+00:00"
+    },
+    "8165656": {
+      "title": "Senior Software Engineer, Storage",
+      "first_seen": "2026-09-28T21:59:21.852769+00:00"
+    },
+    "7998356": {
+      "title": "Senior Staff Data Engineer - Data Stewardship",
+      "first_seen": "2026-09-28T21:59:21.852771+00:00"
+    },
+    "8224032": {
+      "title": "Senior Staff Data Engineer, Foundational Data",
+      "first_seen": "2026-09-28T21:59:21.852773+00:00"
+    },
+    "7107054": {
+      "title": "Senior Staff Data Scientist, Guest & Host Marketplace AI",
+      "first_seen": "2026-09-28T21:59:21.852775+00:00"
+    },
+    "6757302": {
+      "title": "Senior Staff Machine Learning Engineer, Data & Eval",
+      "first_seen": "2026-09-28T21:59:21.852777+00:00"
+    },
+    "7747259": {
+      "title": "Senior Staff Machine Learning Engineer, Growth Platform Engineering",
+      "first_seen": "2026-09-28T21:59:21.852779+00:00"
+    },
+    "7005605": {
+      "title": "Senior Staff Machine Learning Engineer, Guest & Host",
+      "first_seen": "2026-09-28T21:59:21.852782+00:00"
+    },
+    "7858738": {
+      "title": "Senior Staff Machine Learning Engineer, Post Training",
+      "first_seen": "2026-09-28T21:59:21.852784+00:00"
+    },
+    "7592146": {
+      "title": "Senior Staff Machine Learning Engineer, Trust",
+      "first_seen": "2026-09-28T21:59:21.852786+00:00"
+    },
+    "8017277": {
+      "title": "Senior Staff Software Engineer, Guest & Host",
+      "first_seen": "2026-09-28T21:59:21.852788+00:00"
+    },
+    "8039723": {
+      "title": "Senior Staff Software Engineer, Host Pricing & Settings",
+      "first_seen": "2026-09-28T21:59:21.852790+00:00"
+    },
+    "7525479": {
+      "title": "Senior Staff Software Engineer, Payments",
+      "first_seen": "2026-09-28T21:59:21.852792+00:00"
+    },
+    "8187190": {
+      "title": "Senior Staff Software Engineer, Tech Foundations",
+      "first_seen": "2026-09-28T21:59:21.852794+00:00"
+    },
+    "7818982": {
+      "title": "Senior Staff Software Engineer, Trust",
+      "first_seen": "2026-09-28T21:59:21.852796+00:00"
+    },
+    "8007402": {
+      "title": "Senior Staff UX Writer, International",
+      "first_seen": "2026-09-28T21:59:21.852798+00:00"
+    },
+    "8107160": {
+      "title": "Senior Support Specialist, Premium Support",
+      "first_seen": "2026-09-28T21:59:21.852801+00:00"
+    },
+    "8197652": {
+      "title": "Senior Systems Engineer, Tech Foundations",
+      "first_seen": "2026-09-28T21:59:21.852802+00:00"
+    },
+    "7230257": {
+      "title": "Sp\u00e9cialiste au Support Premium",
+      "first_seen": "2026-09-28T21:59:21.852805+00:00"
+    },
+    "8080767": {
+      "title": "Sp\u00e9cialiste au Support Premium",
+      "first_seen": "2026-09-28T21:59:21.852807+00:00"
+    },
+    "8107161": {
+      "title": "Sp\u00e9cialiste principal(e), Soutien Premium",
+      "first_seen": "2026-09-28T21:59:21.852809+00:00"
+    },
+    "7417294": {
+      "title": "Sp\u00e9cialiste, S\u00e9curit\u00e9",
+      "first_seen": "2026-09-28T21:59:21.852812+00:00"
+    },
+    "6852954": {
+      "title": "Specialist, Premium Support",
+      "first_seen": "2026-09-28T21:59:21.852814+00:00"
+    },
+    "8042783": {
+      "title": "Sr Social Measurement Lead",
+      "first_seen": "2026-09-28T21:59:21.852816+00:00"
+    },
+    "8207095": {
+      "title": "Staff Advanced Analytics, Community Blueprint & Quality",
+      "first_seen": "2026-09-28T21:59:21.852818+00:00"
+    },
+    "7943874": {
+      "title": "Staff Advanced Analytics, Guest Product",
+      "first_seen": "2026-09-28T21:59:21.852820+00:00"
+    },
+    "8074897": {
+      "title": "Staff Backend Engineer - Ads Platform",
+      "first_seen": "2026-09-28T21:59:21.852823+00:00"
+    },
+    "7705262": {
+      "title": "Staff Data Scientist, Guest & Host",
+      "first_seen": "2026-09-28T21:59:21.852825+00:00"
+    },
+    "8121074": {
+      "title": "Staff Experience Designer, International",
+      "first_seen": "2026-09-28T21:59:21.852827+00:00"
+    },
+    "8024316": {
+      "title": "Staff Machine Learning Engineer, Assistance Engineering",
+      "first_seen": "2026-09-28T21:59:21.852829+00:00"
+    },
+    "8129371": {
+      "title": "Staff Machine Learning Engineer, Traffic Intelligence",
+      "first_seen": "2026-09-28T21:59:21.852831+00:00"
+    },
+    "7834495": {
+      "title": " Staff Platform Manager, AI Personalization",
+      "first_seen": "2026-09-28T21:59:21.852833+00:00"
+    },
+    "8136554": {
+      "title": "Staff Platform Manager, Conversational Products",
+      "first_seen": "2026-09-28T21:59:21.852835+00:00"
+    },
+    "8163100": {
+      "title": "Staff Platform Manager - GTM & Ops Tooling",
+      "first_seen": "2026-09-28T21:59:21.852838+00:00"
+    },
+    "8120721": {
+      "title": "Staff Platform Manager, Payments Regional Growth",
+      "first_seen": "2026-09-28T21:59:21.852840+00:00"
+    },
+    "8120611": {
+      "title": "Staff Platform Manager, Payments Regional Growth",
+      "first_seen": "2026-09-28T21:59:21.852842+00:00"
+    },
+    "7463421": {
+      "title": "Staff Software Engineer, Assistance Engineering",
+      "first_seen": "2026-09-28T21:59:21.852844+00:00"
+    },
+    "7421419": {
+      "title": "Staff Software Engineer, Communication & Connectivity",
+      "first_seen": "2026-09-28T21:59:21.852846+00:00"
+    },
+    "8197715": {
+      "title": "Staff Software Engineer, Data Warehouse",
+      "first_seen": "2026-09-28T21:59:21.852849+00:00"
+    },
+    "8130817": {
+      "title": "Staff Software Engineer, Passport & Commerce (Backend)",
+      "first_seen": "2026-09-28T21:59:21.852851+00:00"
+    },
+    "8130787": {
+      "title": "Staff Software Engineer, Payments Compliance",
+      "first_seen": "2026-09-28T21:59:21.852853+00:00"
+    },
+    "7702714": {
+      "title": "Staff Software Engineer, Tech Foundations",
+      "first_seen": "2026-09-28T21:59:21.852855+00:00"
+    },
+    "7867435": {
+      "title": "Staff Software Engineer, Unified Data Store",
+      "first_seen": "2026-09-28T21:59:21.852857+00:00"
+    },
+    "8113284": {
+      "title": "Staff UX Researcher, Payments Growth (Mixed Methods)",
+      "first_seen": "2026-09-28T21:59:21.852861+00:00"
+    },
+    "8202878": {
+      "title": "Staff Workday Integration Engineer, Tech Foundations",
+      "first_seen": "2026-09-28T21:59:21.852863+00:00"
+    },
+    "7641058": {
+      "title": "Strategic Partnerships Lead, Central and Eastern Europe",
+      "first_seen": "2026-09-28T21:59:21.852865+00:00"
+    },
+    "7736738": {
+      "title": "Strategic Sourcing, Manager - Engineering & Infrastructure",
+      "first_seen": "2026-09-28T21:59:21.852867+00:00"
+    },
+    "8080626": {
+      "title": "Superviseur (-e), Soutien Premium Bilingue (fran\u00e7ais/anglais)",
+      "first_seen": "2026-09-28T21:59:21.852869+00:00"
+    },
+    "8194590": {
+      "title": "Supervisor, Aircover",
+      "first_seen": "2026-09-28T21:59:21.852872+00:00"
+    },
+    "8080625": {
+      "title": "Supervisor, Premium Support (French/English)",
+      "first_seen": "2026-09-28T21:59:21.852874+00:00"
+    },
+    "7822781": {
+      "title": "Supply Category Lead, Services  ",
+      "first_seen": "2026-09-28T21:59:21.852876+00:00"
+    },
+    "8080766": {
+      "title": "Support Specialist, Premium Support",
+      "first_seen": "2026-09-28T21:59:21.852878+00:00"
+    },
+    "7946318": {
+      "title": "Support Specialist, Premium Support (French/English)",
+      "first_seen": "2026-09-28T21:59:21.852880+00:00"
+    },
+    "7964996": {
+      "title": "Support Specialist, Safety",
+      "first_seen": "2026-09-28T21:59:21.852882+00:00"
+    },
+    "7417293": {
+      "title": "Support Specialist, Safety",
+      "first_seen": "2026-09-28T21:59:21.852884+00:00"
+    },
+    "8120259": {
+      "title": "Vendor Manager, Operational Vendor Support (Insurance)",
+      "first_seen": "2026-09-28T21:59:21.852886+00:00"
+    }
+  }
+}
