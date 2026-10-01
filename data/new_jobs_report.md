@@ -1,5 +1,8 @@
 # New job postings
 
-Last run: 2026-09-30T21:11:29.338248+00:00
+Last run: 2026-10-01T01:03:01.882768+00:00
 
-No new matching postings this run.
+- **Stripe** — Data Analyst
+  https://stripe.com/jobs/search?gh_jid=5601881
+- **Stripe** — Data Scientist, Experimental Projects
+  https://stripe.com/jobs/search?gh_jid=8209337
