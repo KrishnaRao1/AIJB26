@@ -1,8 +1,8 @@
 # New job postings
 
-Last run: 2026-10-02T18:56:58.242872+00:00
+Last run: 2026-10-02T22:49:51.957734+00:00
 
-- **Stripe** — Comms Strategy & Operations Associate
-  https://stripe.com/jobs/search?gh_jid=8241857
-- **Stripe** — Finance & Strategy, Corporate Finance Analyst
-  https://stripe.com/jobs/search?gh_jid=8249865
+- **Airbnb** — Data Scientist - Algorithms, Community Support
+  https://careers.airbnb.com/positions/8031901?gh_jid=8031901
+- **Airbnb** — Senior Data Engineer, BizTech
+  https://careers.airbnb.com/positions/8152721?gh_jid=8152721
