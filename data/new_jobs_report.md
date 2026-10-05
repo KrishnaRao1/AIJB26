@@ -1,5 +1,10 @@
 # New job postings
 
-Last run: 2026-10-05T08:13:40.271071+00:00
+Last run: 2026-10-05T17:48:22.913220+00:00
 
-No new matching postings this run.
+- **Stripe** — Account Executive, Product Sales (Data)
+  https://stripe.com/jobs/search?gh_jid=8190059
+- **Stripe** — Commercial Operations Associate
+  https://stripe.com/jobs/search?gh_jid=8175653
+- **Stripe** — Risk Operations Manager
+  https://stripe.com/jobs/search?gh_jid=8248096
