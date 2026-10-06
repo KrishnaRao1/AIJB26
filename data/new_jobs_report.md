@@ -1,5 +1,6 @@
 # New job postings
 
-Last run: 2026-10-06T04:39:08.955624+00:00
+Last run: 2026-10-06T11:44:58.692114+00:00
 
-No new matching postings this run.
+- **Stripe** — Community Operations Specialist
+  https://stripe.com/jobs/search?gh_jid=8257185
