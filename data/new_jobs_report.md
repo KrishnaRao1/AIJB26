@@ -1,6 +1,5 @@
 # New job postings
 
-Last run: 2026-10-05T23:40:23.103675+00:00
+Last run: 2026-10-06T04:39:08.955624+00:00
 
-- **Airbnb** — Senior Security Assurance Analyst
-  https://careers.airbnb.com/positions/8241536?gh_jid=8241536
+No new matching postings this run.
