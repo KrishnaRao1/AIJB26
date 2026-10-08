@@ -1,5 +1,6 @@
 # New job postings
 
-Last run: 2026-10-08T02:26:55.975786+00:00
+Last run: 2026-10-08T09:54:11.333509+00:00
 
-No new matching postings this run.
+- **Airbnb** — Business Operations and Growth Lead, Asia
+  https://careers.airbnb.com/positions/8242459?gh_jid=8242459
