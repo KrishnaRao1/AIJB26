@@ -1,6 +1,8 @@
 # New job postings
 
-Last run: 2026-10-08T09:54:11.333509+00:00
+Last run: 2026-10-08T17:09:40.252515+00:00
 
-- **Airbnb** — Business Operations and Growth Lead, Asia
-  https://careers.airbnb.com/positions/8242459?gh_jid=8242459
+- **Stripe** — Security Analyst 
+  https://stripe.com/jobs/search?gh_jid=8142302
+- **Stripe** — Team Lead, Quality Analyst, Product Support Operations
+  https://stripe.com/jobs/search?gh_jid=8206729
