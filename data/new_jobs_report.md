@@ -1,5 +1,6 @@
 # New job postings
 
-Last run: 2026-10-15T03:00:24.297856+00:00
+Last run: 2026-10-15T08:47:40.882696+00:00
 
-No new matching postings this run.
+- **Airbnb** — Senior Analyst, Advanced Analytics - Gurugram
+  https://careers.airbnb.com/positions/8081180?gh_jid=8081180
