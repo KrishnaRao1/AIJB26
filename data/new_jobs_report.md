@@ -1,6 +1,5 @@
 # New job postings
 
-Last run: 2026-10-15T17:58:29.890615+00:00
+Last run: 2026-10-15T21:09:38.347732+00:00
 
-- **Airbnb** — Programs Operations Lead, Growth Levers
-  https://careers.airbnb.com/positions/8103590?gh_jid=8103590
+No new matching postings this run.
