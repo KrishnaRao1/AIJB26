@@ -1,8 +1,6 @@
 # New job postings
 
-Last run: 2026-10-15T13:53:57.220057+00:00
+Last run: 2026-10-15T17:58:29.890615+00:00
 
-- **Stripe** — Corporate Accounting Analyst (Bangalore)
-  https://stripe.com/jobs/search?gh_jid=8273713
-- **Stripe** — Verifications Operations Associate
-  https://stripe.com/jobs/search?gh_jid=8022703
+- **Airbnb** — Programs Operations Lead, Growth Levers
+  https://careers.airbnb.com/positions/8103590?gh_jid=8103590
