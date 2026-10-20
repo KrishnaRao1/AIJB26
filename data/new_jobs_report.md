@@ -1,5 +1,8 @@
 # New job postings
 
-Last run: 2026-10-20T13:16:46.326174+00:00
+Last run: 2026-10-20T18:17:50.502138+00:00
 
-No new matching postings this run.
+- **Stripe** — Product Counsel, Data Products
+  https://stripe.com/jobs/search?gh_jid=8238100
+- **Airbnb** — Senior Business Operations Lead
+  https://careers.airbnb.com/positions/8207342?gh_jid=8207342
