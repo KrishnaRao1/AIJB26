@@ -3731,6 +3731,10 @@
     "8306158": {
       "title": "Product Manager, Radar - Fraud and Abuse Prevention",
       "first_seen": "2026-10-21T17:52:29.170719+00:00"
+    },
+    "8304725": {
+      "title": "Product Designer, Risk",
+      "first_seen": "2026-10-21T21:11:38.515189+00:00"
     }
   },
   "airbnb": {
@@ -4913,6 +4917,14 @@
     "8306218": {
       "title": "Market Associate",
       "first_seen": "2026-10-21T17:52:29.284082+00:00"
+    },
+    "8300926": {
+      "title": "Senior Data Engineer, Payments",
+      "first_seen": "2026-10-21T21:11:38.598799+00:00"
+    },
+    "8274152": {
+      "title": "Software Engineer, Payments",
+      "first_seen": "2026-10-21T21:11:38.598833+00:00"
     }
   }
 }
