@@ -1,5 +1,8 @@
 # New job postings
 
-Last run: 2026-10-22T00:24:07.726229+00:00
+Last run: 2026-10-22T05:43:14.504463+00:00
 
-No new matching postings this run.
+- **Stripe** — Credit Risk Analyst Commercial Underwriter
+  https://stripe.com/jobs/search?gh_jid=8287916
+- **Stripe** — Operations Program Manager, Consumer Support
+  https://stripe.com/jobs/search?gh_jid=8288334
