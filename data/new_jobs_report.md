@@ -1,6 +1,6 @@
 # New job postings
 
-Last run: 2026-10-22T16:33:22.006341+00:00
+Last run: 2026-10-22T20:24:12.240106+00:00
 
-- **Stripe** — Program Manager, Deal Operations
-  https://stripe.com/jobs/search?gh_jid=8314210
+- **Stripe** — Company Strategy & Operations
+  https://stripe.com/jobs/search?gh_jid=8070054
