@@ -1,5 +1,5 @@
 # New job postings
 
-Last run: 2026-10-25T23:45:27.610466+00:00
+Last run: 2026-10-26T03:00:05.027824+00:00
 
 No new matching postings this run.
