@@ -1,6 +1,5 @@
 # New job postings
 
-Last run: 2026-10-26T15:48:46.305434+00:00
+Last run: 2026-10-26T20:52:50.291770+00:00
 
-- **Stripe** — Processing Cost Analyst
-  https://stripe.com/jobs/search?gh_jid=8324207
+No new matching postings this run.
