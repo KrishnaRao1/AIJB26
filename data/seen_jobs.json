@@ -3891,6 +3891,26 @@
     "8315962": {
       "title": "Risk Operations Associate, UPO",
       "first_seen": "2026-10-28T00:56:51.970120+00:00"
+    },
+    "8280266": {
+      "title": "Account Executive, Startups (Grower)",
+      "first_seen": "2026-10-28T06:40:27.507813+00:00"
+    },
+    "8168550": {
+      "title": "Fraud Operations Analyst (CDMX)",
+      "first_seen": "2026-10-28T06:40:27.507874+00:00"
+    },
+    "8267847": {
+      "title": "Head of AMER Startups (AI Sales)",
+      "first_seen": "2026-10-28T06:40:27.507889+00:00"
+    },
+    "8175637": {
+      "title": "Manager, Solutions Architecture Transformation",
+      "first_seen": "2026-10-28T06:40:27.507906+00:00"
+    },
+    "8329718": {
+      "title": "Staff Software Engineer, Dashboard Product",
+      "first_seen": "2026-10-28T06:40:27.507961+00:00"
     }
   },
   "airbnb": {
@@ -5169,6 +5189,10 @@
     "8329612": {
       "title": "Principal, Strategic Finance & Analytics - Membership",
       "first_seen": "2026-10-28T00:56:52.032778+00:00"
+    },
+    "8327049": {
+      "title": "Supervisor - Trust and Safety Operations",
+      "first_seen": "2026-10-28T06:40:27.656375+00:00"
     }
   }
 }
