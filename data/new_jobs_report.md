@@ -1,5 +1,6 @@
 # New job postings
 
-Last run: 2026-10-29T11:16:31.408483+00:00
+Last run: 2026-10-29T17:58:22.024614+00:00
 
-No new matching postings this run.
+- **Stripe** — Product Support Operations, Team Lead 
+  https://stripe.com/jobs/search?gh_jid=8326577
