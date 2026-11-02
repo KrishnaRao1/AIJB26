@@ -1,5 +1,6 @@
 # New job postings
 
-Last run: 2026-11-02T01:12:45.048791+00:00
+Last run: 2026-11-02T08:48:22.616529+00:00
 
-No new matching postings this run.
+- **Stripe** — Payments Analyst
+  https://stripe.com/jobs/search?gh_jid=7975721
