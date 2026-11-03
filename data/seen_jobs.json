@@ -4167,6 +4167,26 @@
     "8346417": {
       "title": "Engineering Manager, Infrastructure (Privy)",
       "first_seen": "2026-11-03T01:57:51.319447+00:00"
+    },
+    "8315954": {
+      "title": "Full-Stack Software Engineer, Communication Tools",
+      "first_seen": "2026-11-03T17:29:18.273491+00:00"
+    },
+    "8328323": {
+      "title": "IT Support Engineer",
+      "first_seen": "2026-11-03T17:29:18.273528+00:00"
+    },
+    "8155002": {
+      "title": "Product Designer, Link",
+      "first_seen": "2026-11-03T17:29:18.273552+00:00"
+    },
+    "8335426": {
+      "title": "Software Engineer, Supportability Decisions ",
+      "first_seen": "2026-11-03T17:29:18.273587+00:00"
+    },
+    "8261010": {
+      "title": "Staff Backend Engineer, Supportability Decisions",
+      "first_seen": "2026-11-03T17:29:18.273595+00:00"
     }
   },
   "airbnb": {
@@ -5573,6 +5593,10 @@
     "8346184": {
       "title": "Senior Manager, Public Policy, Pacific Northwest",
       "first_seen": "2026-11-03T09:12:09.359158+00:00"
+    },
+    "8349121": {
+      "title": "Senior Risk Tools & Automation Lead",
+      "first_seen": "2026-11-03T17:29:20.102218+00:00"
     }
   }
 }
