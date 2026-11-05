@@ -1,5 +1,8 @@
 # New job postings
 
-Last run: 2026-11-05T00:05:53.788225+00:00
+Last run: 2026-11-05T07:39:45.288284+00:00
 
-No new matching postings this run.
+- **Stripe** — Operations Associate, Financial Crimes (AML Investigations)
+  https://stripe.com/jobs/search?gh_jid=8352485
+- **Stripe** — Senior Staff Engineer, Big Data Infrastructure
+  https://stripe.com/jobs/search?gh_jid=8317306
