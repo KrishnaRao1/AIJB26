@@ -1,5 +1,6 @@
 # New job postings
 
-Last run: 2026-11-09T07:35:45.759246+00:00
+Last run: 2026-11-10T01:51:21.795153+00:00
 
-No new matching postings this run.
+- **Stripe** — Product Operations Manager
+  https://stripe.com/jobs/search?gh_jid=8315943
