@@ -1,6 +1,8 @@
 # New job postings
 
-Last run: 2026-11-12T17:53:32.669232+00:00
+Last run: 2026-11-12T23:09:41.786406+00:00
 
-- **Stripe** — People Operations Associate (11-Month FTC)
-  https://stripe.com/jobs/search?gh_jid=8248102
+- **Stripe** — Analyst Relations Senior Manager
+  https://stripe.com/jobs/search?gh_jid=8376775
+- **Stripe** — Operations Associate, Tax Jar
+  https://stripe.com/jobs/search?gh_jid=8353180
