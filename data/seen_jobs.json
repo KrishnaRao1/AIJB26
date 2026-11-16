@@ -4711,6 +4711,34 @@
     "8382000": {
       "title": "Head of Enterprise, West",
       "first_seen": "2026-11-14T01:14:01.497381+00:00"
+    },
+    "8322588": {
+      "title": "Account Executive, SMB, Italian speaking ",
+      "first_seen": "2026-11-16T17:51:59.109565+00:00"
+    },
+    "8393107": {
+      "title": "Engineering Manager, Collaboration Engineering ",
+      "first_seen": "2026-11-16T17:51:59.109603+00:00"
+    },
+    "8386610": {
+      "title": "Engineering Manager, Core Infrastructure",
+      "first_seen": "2026-11-16T17:51:59.109606+00:00"
+    },
+    "8358071": {
+      "title": "Product Integration Reliability Engineer, Money Management",
+      "first_seen": "2026-11-16T17:51:59.109633+00:00"
+    },
+    "5423044": {
+      "title": "Risk Operations Associate ",
+      "first_seen": "2026-11-16T17:51:59.109642+00:00"
+    },
+    "8368645": {
+      "title": "Technical Account Manager, German Speaking",
+      "first_seen": "2026-11-16T17:51:59.109672+00:00"
+    },
+    "8368652": {
+      "title": "Technical Account Manager, Spanish Speaking",
+      "first_seen": "2026-11-16T17:51:59.109674+00:00"
     }
   },
   "airbnb": {
@@ -6345,6 +6373,10 @@
     "8336191": {
       "title": "Senior Account Executive",
       "first_seen": "2026-11-16T07:35:57.290125+00:00"
+    },
+    "8393253": {
+      "title": "Program Manager, North America Policy",
+      "first_seen": "2026-11-16T17:51:59.211358+00:00"
     }
   }
 }
