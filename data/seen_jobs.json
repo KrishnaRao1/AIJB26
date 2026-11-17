@@ -4763,6 +4763,30 @@
     "8318719": {
       "title": "Second-Line Manager, Enterprise Sales",
       "first_seen": "2026-11-17T01:29:46.666946+00:00"
+    },
+    "8345653": {
+      "title": "Account Executive (Commercial Grower, Japan)",
+      "first_seen": "2026-11-17T10:05:46.410392+00:00"
+    },
+    "8345657": {
+      "title": "Account Executive (SMB Grower, Japan ) ",
+      "first_seen": "2026-11-17T10:05:46.410432+00:00"
+    },
+    "8354764": {
+      "title": "Account Executive - SMB Hunter - Southeast Asia",
+      "first_seen": "2026-11-17T10:05:46.410436+00:00"
+    },
+    "8351589": {
+      "title": "Japan Enterprise Account Manager",
+      "first_seen": "2026-11-17T10:05:46.410475+00:00"
+    },
+    "8328114": {
+      "title": "Product Lead, Payments ",
+      "first_seen": "2026-11-17T10:05:46.410492+00:00"
+    },
+    "8199593": {
+      "title": "Product Manager, Card Networks",
+      "first_seen": "2026-11-17T10:05:46.410494+00:00"
     }
   },
   "airbnb": {
@@ -6421,6 +6445,10 @@
     "8393912": {
       "title": "Senior Software Engineer Guest & Host",
       "first_seen": "2026-11-17T01:29:46.749275+00:00"
+    },
+    "8352713": {
+      "title": "Manager, Premium Support",
+      "first_seen": "2026-11-17T10:05:46.459448+00:00"
     }
   }
 }
