@@ -1,8 +1,5 @@
 # New job postings
 
-Last run: 2026-11-20T23:38:21.953206+00:00
+Last run: 2026-11-21T05:27:38.713301+00:00
 
-- **Stripe** — Staff Data Scientist, Fraud
-  https://stripe.com/jobs/search?gh_jid=8323907
-- **Airbnb** — Staff Data Scientist - Martech Platform (ML/Algos)
-  https://careers.airbnb.com/positions/8350696?gh_jid=8350696
+No new matching postings this run.
